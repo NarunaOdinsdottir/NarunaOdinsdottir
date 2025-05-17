@@ -55,6 +55,30 @@ Oder einfach Kevin fragen – der weiß Bescheid.
 ## Ziel: Remote-Arbeiten im Bereich MedTech/IT, mit Fokus auf menschennahe Technik und wenig Telefonieren.  
 ## Fun Fact: Mein Hund hat mehr Social-Media-Präsenz als ich – aber ich arbeite daran!
 
+### 🛠️ Skills  
+- **Python**: AI Development, APIs, LLMs, OOP  
+- **Cybersecurity**: Ethical Hacking, OS Security, Network Penetration  
+- **Tools**: Git, Jupyter, VS Code  
+
+---
+
+## 🏆 Certifications  
+
+### 🐍 Python & AI  
+| Certification | Issuer | Date | Skills |  
+|--------------|--------|------|--------|  
+| [Python AI Development](https://github.com/[DeinBenutzername]/certificates/blob/main/Python/mimo-python-ai.pdf) | Mimo | May 2025 | LLMs, APIs, OOP |  
+| [Python Fundamentals](https://github.com/[DeinBenutzername]/certificates/blob/main/Python/mimo-python-basics.pdf) | Mimo | May 2025 | Data Structures, Modules |  
+
+### 🔐 Ethical Hacking  
+| Certification | Issuer | Date | Skills |  
+|--------------|--------|------|--------|  
+| [Leveraging AI for Hacking](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-ai-hacking.pdf) | HackerX | May 2025 | AI in Security |  
+| [Gathering Information](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-gathering-info.pdf) | HackerX | May 2025 | Reconnaissance |  
+| [Hack the MAC](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-hack-the-mac.pdf) | HackerX | Oct 2021 | Network Security |  
+| [Know the OS](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-know-the-os.pdf) | HackerX | Oct 2021 | OS Internals |  
+
+
 
 Danke fürs Vorbeischauen!  
 > _“Vault-Tec dankt für deine Mitarbeit.”_
