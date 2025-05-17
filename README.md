@@ -44,6 +44,7 @@ Ich lerne aktuell:
 - **Python (Udemy & Buch von Dominique Zeise)**
 - **Versionierung mit Git & GitHub**
 - Erste Schritte Richtung **Robotik & KI**
+- **Ethical Hacking 
 
 ## Kontakt
 Du möchtest mich auf meinem Weg begleiten oder hast spannende Ideen?    
