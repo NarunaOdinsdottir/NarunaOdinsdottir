@@ -1,85 +1,116 @@
-# Willkommen in meinem kleinen digitalen Vault!
+<h1 align="center">Willkommen in meinem kleinen digitalen Vault!</h1>
 
-Hi! Ich bin NarunaOdinsdottir – medizinische Fachangestellte, Hörgeräteakustikerin & Wundexpertin mit einem Herz für Technik und einer Schwäche für Fallout-Humor. 
-Derzeit bin ich dabei, mir neue Skills im Bereich Programmierung, Robotik und MedTech anzueignen – Schritt für Schritt, Keks für Keks. 
-Ich habe mich dazu entschlossen, meine Leidenschaft für Technik, Empathie und kreative Lösungen zu verbinden.  
-Mein Ziel: Medizin, Menschlichkeit und Technik in sinnvollen Projekten vereinen – remote, barrierearm und mit einem Augenzwinkern.
-
-## Was mich antreibt
-Nach Jahren im Gesundheitswesen reizt mich die Idee, Technik und Empathie zu verbinden:  
-Assistenzsysteme, smarte Gesundheitslösungen und kreative Tools für den Alltag – gemacht für Menschen, die wirklich davon profitieren.**
-
-## Was mich ausmacht
-- **Medizinische Fachangestellte**, **Wundexpertin ICW** und **Hörgeräteakustikerin** mit viel Einfühlungsvermögen
-- **Autistisch**, strukturiert und detailverliebt – besonders bei Code & Konzepten
-- **Technikbegeistert**, mit Fokus auf **Python, Robotik und MedTech-Ideen**
-- Berufsbegleitend auf dem Weg zur **Remote-Entwicklerin**
-
-## Projekte (Auswahl)
-
-- **Verbandswechselberater**  
-  Kleines Tool zur Erinnerungsunterstützung bei Wundversorgungen.
-
-- **Kevin – Mein Chatbot-Begleiter**  
-  Interaktives Spiel, Gesprächspartner, Reminder und bald: Mini-Roboter mit Herz.
-
-- **PipBoyBullshitBingo (PBBB)**  
-  Fallout-inspiriertes Büro-Survival-Game zur mentalen Schadensbegrenzung im Dienstalltag.
-
-- **Nachtatem**  
-  Gesprächspartner, Reminder
-
-- **Medikamentenplan Generator**  
-  Einfache Medikamentenliste mit Erinnerungshilfe.
-
-## Skills im Aufbau
-
-- Python (aktiver Lernpfad mit Projekten)
-- Git & GitHub (erste Schritte)
-- MedTech-Ideenentwicklung
-- Langfristig: Robotik, Datenanalyse & KI
-
-## Mein Lernweg
-Ich lerne aktuell:
-- **Python (Udemy & Buch von Dominique Zeise)**
-- **Versionierung mit Git & GitHub**
-- Erste Schritte Richtung **Robotik & KI**
-- **Ethical Hacking 
-
-## Kontakt
-Du möchtest mich auf meinem Weg begleiten oder hast spannende Ideen?    
-Oder einfach Kevin fragen – der weiß Bescheid.
-
-
-> _„Technik kann Menschen helfen. Wenn man sie richtig einsetzt – oder wenigstens liebevoll programmiert.“_
-
-## Ziel: Remote-Arbeiten im Bereich MedTech/IT, mit Fokus auf menschennahe Technik und wenig Telefonieren.  
-## Fun Fact: Mein Hund hat mehr Social-Media-Präsenz als ich – aber ich arbeite daran!
-
-### 🛠️ Skills  
-- **Python**: AI Development, APIs, LLMs, OOP  
-- **Cybersecurity**: Ethical Hacking, OS Security, Network Penetration  
-- **Tools**: Git, Jupyter, VS Code  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Vault-Tec" width="200" />
+</p>
 
 ---
 
-## 🏆 Certifications  
+### Hi, ich bin **NarunaOdinsdottir**  
+*Medizinische Fachangestellte, Hörgeräteakustikerin & Wundexpertin – mit einem Herz für Technik und einer Schwäche für Fallout-Humor.*
 
-### 🐍 Python & AI  
-| Certification | Issuer | Date | Skills |  
-|--------------|--------|------|--------|  
-| [Python AI Development](https://github.com/[DeinBenutzername]/certificates/blob/main/Python/mimo-python-ai.pdf) | Mimo | May 2025 | LLMs, APIs, OOP |  
-| [Python Fundamentals](https://github.com/[DeinBenutzername]/certificates/blob/main/Python/mimo-python-basics.pdf) | Mimo | May 2025 | Data Structures, Modules |  
+Ich lerne aktuell **Python**, **Ethical Hacking**, **Git** und taste mich in **Robotik & MedTech** vor.  
+> Schritt für Schritt, Keks für Keks.  
 
-### 🔐 Ethical Hacking  
-| Certification | Issuer | Date | Skills |  
-|--------------|--------|------|--------|  
-| [Leveraging AI for Hacking](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-ai-hacking.pdf) | HackerX | May 2025 | AI in Security |  
-| [Gathering Information](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-gathering-info.pdf) | HackerX | May 2025 | Reconnaissance |  
-| [Hack the MAC](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-hack-the-mac.pdf) | HackerX | Oct 2021 | Network Security |  
-| [Know the OS](https://github.com/[DeinBenutzername]/certificates/blob/main/Ethical-Hacking/hackerx-know-the-os.pdf) | HackerX | Oct 2021 | OS Internals |  
+---
 
+## **Was mich antreibt**  
+Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empathie** zu verbinden:  
+**Assistenzsysteme**, **smarte Gesundheitslösungen** und kreative Tools für den Alltag – gemacht für Menschen, die wirklich davon profitieren.
 
+---
 
-Danke fürs Vorbeischauen!  
-> _“Vault-Tec dankt für deine Mitarbeit.”_
+## **Was mich ausmacht**
+- 🩺 Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
+- 🧠 Autistisch, strukturiert & detailverliebt – besonders bei Code & Konzept  
+- ⚙️ Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
+- 🌐 Berufsbegleitend auf dem Weg zur Remote-Entwicklerin
+
+---
+
+## **Projekte (Auswahl)**
+
+### 🤖 Kevin – Mein Chatbot-Begleiter  
+> Interaktives Spiel, Gesprächspartner, Reminder – bald: Mini-Roboter mit Herz.
+
+### 🩹 Verbandswechselberater  
+> Kleines Tool zur Erinnerungsunterstützung bei Wundversorgungen.
+
+### ☢️ PipBoyBullshitBingo (PBBB)  
+> Fallout-inspiriertes Büro-Survival-Game zur mentalen Schadensbegrenzung.
+
+### 🐉 Nachtatem  
+> Gesprächspartner & digitaler Erinnerer – mit drachiger Attitüde.
+
+### 💊 Medikamentenplan Generator  
+> Einfache Medikamentenliste mit Erinnerungshilfe.
+
+---
+
+## **Skills im Aufbau**
+
+| Bereich        | Details                                     |
+|----------------|---------------------------------------------|
+| 💻 Programmieren | Python (AI, APIs, OOP), Projekte & Tools     |
+| 🛡 Cybersecurity | Ethical Hacking, Recon, OS & MAC Security    |
+| 🧰 Tools         | Git, GitHub, Jupyter, VS Code               |
+| ⚙️ Perspektive   | Robotik, Datenanalyse, KI                   |
+
+---
+
+## **Aktueller Lernpfad**
+
+- Python (Udemy & Buch von Dominique Zeise)  
+- Git & GitHub  
+- Erste Schritte in Richtung Robotik & KI  
+- Ethical Hacking (HackerX)
+
+---
+
+## 🏆 **Zertifikate**
+
+### 🐍 Python & AI
+
+| Zertifikat               | Anbieter | Datum    | Skills                   |
+|--------------------------|----------|----------|--------------------------|
+| Python AI Development    | Mimo     | Mai 2025 | LLMs, APIs, OOP          |
+| Python Fundamentals      | Mimo     | Mai 2025 | Data Structures, Modules |
+
+### 🔐 Ethical Hacking
+
+| Zertifikat               | Anbieter | Datum    | Skills                   |
+|--------------------------|----------|----------|--------------------------|
+| Leveraging AI for Hacking | HackerX  | Mai 2025 | AI in Security           |
+| Gathering Information     | HackerX  | Mai 2025 | Reconnaissance           |
+| Hack the MAC              | HackerX  | Okt 2021 | Network Security         |
+| Know the OS               | HackerX  | Okt 2021 | OS Internals             |
+
+---
+
+## ✉️ Kontakt
+
+Du möchtest mich auf meinem Weg begleiten oder hast spannende Ideen?  
+Oder einfach **Kevin** fragen – der weiß Bescheid.  
+
+> *„Technik kann Menschen helfen. Wenn man sie richtig einsetzt – oder wenigstens liebevoll programmiert.“*
+
+---
+
+## 🎯 Ziel
+
+**Remote-Arbeiten im Bereich MedTech/IT** – mit Fokus auf **menschennahe Technik**, möglichst **barrierearm** und **ohne ständiges Telefonieren**.
+
+---
+
+## 🐾 Fun Fact
+
+Mein Hund hat mehr Social-Media-Präsenz als ich –  
+**aber ich arbeite daran.**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="180" alt="Vault Dog" />
+</p>
+
+---
+
+<p align="center"><i>“Vault-Tec dankt für deine Mitarbeit.”</i></p>
