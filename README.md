@@ -1,8 +1,5 @@
 <h1 align="center">Willkommen in meinem kleinen digitalen Vault!</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Vault-Tec" width="200" />
-</p>
 
 ---
 
