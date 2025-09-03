@@ -42,6 +42,9 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 ### 💊 Medikamentenplan Generator  
 > Einfache Medikamentenliste mit Erinnerungshilfe.
 
+### Recon Mini-Toolkit
+>Portscanner,Subdomainabfrage,Whois
+
 ---
 
 ## **Skills im Aufbau**
@@ -60,7 +63,9 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - Python (Udemy & Buch von Dominique Zeise)  
 - Git & GitHub  
 - Erste Schritte in Richtung Robotik & KI  
-- Ethical Hacking (HackerX)
+- Ethical Hacking (HackerX)ript
+- Hack the Box
+- Try Hack Me
 
 ---
 
@@ -72,16 +77,23 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 |--------------------------|----------|----------|--------------------------|
 | Python AI Development    | Mimo     | Mai 2025 | LLMs, APIs, OOP          |
 | Python Fundamentals      | Mimo     | Mai 2025 | Data Structures, Modules |
+| TypeScript Fundamentals  | Mimo     | Mai 2025 |                          |
 
 ### 🔐 Ethical Hacking
 
-| Zertifikat               | Anbieter | Datum    | Skills                   |
-|--------------------------|----------|----------|--------------------------|
+| Zertifikat                | Anbieter | Datum    | Skills                   |
+|---------------------------|----------|----------|--------------------------|
 | Leveraging AI for Hacking | HackerX  | Mai 2025 | AI in Security           |
 | Gathering Information     | HackerX  | Mai 2025 | Reconnaissance           |
 | Hack the MAC              | HackerX  | Okt 2021 | Network Security         |
 | Know the OS               | HackerX  | Okt 2021 | OS Internals             |
-
+| Prompt Guide for Hacking  | HackerX  | Mai 2025 |                          |
+| Keyboard Spying           | HackerX  | Mai 2025 |                          |
+| Credit and Debit Card     | HackerX  | Mai 2025 |                          |
+|  Frauds                   |          |          |                          |
+| Hiding Messages           | HackerX  | Mai 2025 |                          |
+| Surfing anonymously       | HackerX  | Mai 2025 |                          |
+| Social Media Hacking      | HackerX  | Mai 2025 |                          |
 ---
 
 ## ✉️ Kontakt
