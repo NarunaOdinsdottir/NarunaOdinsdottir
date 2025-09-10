@@ -53,10 +53,10 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 | Bereich        | Details                                     |
 |----------------|---------------------------------------------|
-| 💻 Programmieren | Python (AI, APIs, OOP), Projekte & Tools     |
-| 🛡 Cybersecurity | Ethical Hacking, Recon, OS & MAC Security    |
-| 🧰 Tools         | Git, GitHub, Jupyter, VS Code               |
-| ⚙️ Perspektive   | Robotik, Datenanalyse, KI                   |
+| 💻 Programmieren | Python (AI, APIs, OOP), Projekte & Tools  |
+| 🛡 Cybersecurity | Ethical Hacking, Recon, OS & MAC Security  |
+| 🧰 Tools         | Git, GitHub, Jupyter, VS Code              |
+| ⚙️ Perspektive   | Robotik, Datenanalyse, KI                  |
 
 ---
 
