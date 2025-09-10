@@ -43,7 +43,9 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 > Einfache Medikamentenliste mit Erinnerungshilfe.
 
 ### Recon Mini-Toolkit
->Portscanner,Subdomainabfrage,Whois
+>Portscanner,Subdomainabfrage,Whois etc...
+>
+>u.v.m.
 
 ---
 
