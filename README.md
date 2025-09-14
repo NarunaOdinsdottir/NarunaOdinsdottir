@@ -108,7 +108,7 @@ Bagdes
 - OWASP TOP 10
 - cat linux.txt
 - Introduction to Security Engineering
-- 
+- Terminated!
 
 | Raum / Modul                         |           |
 |--------------------------------------|-----------|
