@@ -65,7 +65,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - Python (Udemy & Buch von Dominique Zeise)  
 - Git & GitHub  
 - Erste Schritte in Richtung Robotik & KI  
-- Ethical Hacking (HackerX)ript
+- Ethical Hacking (HackerX)
 - Hack the Box
 - Try Hack Me
 
