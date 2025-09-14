@@ -98,6 +98,70 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 | Social Media Hacking      | HackerX  | Mai 2025 |                          |
 ---
 
+# 🏴 CyberSec Progress
+
+## 🔐 TryHackMe
+
+Bagdes
+
+- The Course Awakens
+- OWASP TOP 10
+- cat linux.txt
+- Introduction to Security Engineering
+- 
+
+| Raum / Modul                        | Abschluss |
+|-------------------------------------|-----------|
+|  |Linux Fundamentals Part 1          |  ✅ Done 
+|  ffuf                                |  ✅ Done 
+|  What is Networking?                 |  ✅ Done 
+|  Pentesting Fundamentals             |  ✅ Done 
+|  Red Team Engagements                |  ✅ Done 
+|  Introduction to DevSecOps           |  ✅ Done 
+|  SDLC                                |  ✅ Done 
+|  Careers in Cyber                    |  ✅ Done 
+|  Intro to Pipeline Automation        |  ✅ Done 
+|  Intro to Containerisation           |  ✅ Done 
+|  Security Principles                 |  ✅ Done 
+|  Secure Network Architecture         |  ✅ Done 
+|  OWASP Top 10 - 2021                 |  ✅ Done 
+|  Intro to Docker                     |  ✅ Done 
+|  Governance & Regulation             |  ✅ Done 
+|  Security Engineer Intro             |  ✅ Done 
+|  Intro to IaC                        |  ✅ Done 
+|  Billing                             |  ✅ Done 
+|  Search Skills                       |  ✅ Done 
+|  Offensive Security Intro            |  ✅ Done 
+|  Defensive Security Intro            |  ✅ Done 
+
+
+## 🕵️ HackTheBox
+
+Badges
+
+https://academy.hackthebox.com/achievement/badge/44ca1bec-63af-11f0-bcfd-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/db619d81-6315-11f0-bcfd-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/80b00bbe-873b-11f0-9254-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/c4f0994e-8ca6-11f0-9254-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/c1668b8a-583a-11f0-bcfd-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ffe6cb4
+
+
+
+| Raum / Modul             
+|-------------------------------------|-----------------------------------------------------|
+| Learning Progess    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/9
+| Intro to Academy    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/15
+| Linux Fundamentals  | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/18
+| Web Request         | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/35
+| JavaScript 
+| Deobfuscation       | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/41
+| Setting Up          | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/87
+
+
+
 ## ✉️ Kontakt
 
 Du möchtest mich auf meinem Weg begleiten oder hast spannende Ideen?  
