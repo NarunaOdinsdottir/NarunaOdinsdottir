@@ -21,7 +21,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - 🩺 Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
 - 🧠 Autistisch, strukturiert & detailverliebt – besonders bei Code & Konzept  
 - ⚙️ Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
-- 🌐 Berufsbegleitend auf dem Weg zur Remote-Entwicklerin
+- 🌐 Berufsbegleitend auf dem Weg zum Junior Pentester oder Junior DevSecOP
 
 ---
 
