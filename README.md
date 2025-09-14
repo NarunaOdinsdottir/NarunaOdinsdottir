@@ -110,9 +110,9 @@ Bagdes
 - Introduction to Security Engineering
 - 
 
-| Raum / Modul                        | Abschluss |
+| Raum / Modul                        
 |-------------------------------------|-----------|
-|  |Linux Fundamentals Part 1          |  ✅ Done 
+|  Linux Fundamentals Part 1           |  ✅ Done 
 |  ffuf                                |  ✅ Done 
 |  What is Networking?                 |  ✅ Done 
 |  Pentesting Fundamentals             |  ✅ Done 
