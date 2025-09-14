@@ -151,14 +151,14 @@ https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ff
 
 ## 🕵️ HackTheBox Fortschritt
 
-| Raum / Modul            | Status   | Badge                                                                 |
-|--------------------------|----------|------------------------------------------------------------------------|
-| Learning Progress        | ✅ Done | ![](https://academy.hackthebox.com/achievement/badge/44ca1bec-63af-11f0-bcfd-bea50ffe6cb4) |
-| Intro to Academy         | ✅ Done | ![](https://academy.hackthebox.com/achievement/badge/db619d81-6315-11f0-bcfd-bea50ffe6cb4) |
-| Linux Fundamentals       | ✅ Done | ![](https://academy.hackthebox.com/achievement/badge/80b00bbe-873b-11f0-9254-bea50ffe6cb4) |
-| Web Request              | ✅ Done | ![](https://academy.hackthebox.com/achievement/badge/c4f0994e-8ca6-11f0-9254-bea50ffe6cb4) |
-| JavaScript Deobfuscation | ✅ Done | ![](https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4) |
-| Setting Up               | ✅ Done | ![](https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4) |
+| Raum / Modul            | Status   | Badge                                                                                      |
+|--------------------------|----------|-------------------------------------------------------------------------------------------|
+| Learning Progress        | ✅ Done | https://academy.hackthebox.com/achievement/badge/44ca1bec-63af-11f0-bcfd-bea50ffe6cb4      |
+| Intro to Academy         | ✅ Done | https://academy.hackthebox.com/achievement/badge/db619d81-6315-11f0-bcfd-bea50ffe6cb4      |
+| Linux Fundamentals       | ✅ Done | https://academy.hackthebox.com/achievement/badge/80b00bbe-873b-11f0-9254-bea50ffe6cb4      |
+| Web Request              | ✅ Done | https://academy.hackthebox.com/achievement/badge/c4f0994e-8ca6-11f0-9254-bea50ffe6cb4      |
+| JavaScript Deobfuscation | ✅ Done | https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4      |     
+| Setting Up               | ✅ Done | https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4      |
 
 
 
