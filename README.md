@@ -110,29 +110,29 @@ Bagdes
 - Introduction to Security Engineering
 - 
 
-| Raum / Modul                        
-|-------------------------------------|-----------|
-|  Linux Fundamentals Part 1           |  ✅ Done 
-|  ffuf                                |  ✅ Done 
-|  What is Networking?                 |  ✅ Done 
-|  Pentesting Fundamentals             |  ✅ Done 
-|  Red Team Engagements                |  ✅ Done 
-|  Introduction to DevSecOps           |  ✅ Done 
-|  SDLC                                |  ✅ Done 
-|  Careers in Cyber                    |  ✅ Done 
-|  Intro to Pipeline Automation        |  ✅ Done 
-|  Intro to Containerisation           |  ✅ Done 
-|  Security Principles                 |  ✅ Done 
-|  Secure Network Architecture         |  ✅ Done 
-|  OWASP Top 10 - 2021                 |  ✅ Done 
-|  Intro to Docker                     |  ✅ Done 
-|  Governance & Regulation             |  ✅ Done 
-|  Security Engineer Intro             |  ✅ Done 
-|  Intro to IaC                        |  ✅ Done 
-|  Billing                             |  ✅ Done 
-|  Search Skills                       |  ✅ Done 
-|  Offensive Security Intro            |  ✅ Done 
-|  Defensive Security Intro            |  ✅ Done 
+| Raum / Modul                         |           |
+|--------------------------------------|-----------|
+|  Linux Fundamentals Part 1           |  ✅ Done  |
+|  ffuf                                |  ✅ Done  |
+|  What is Networking?                 |  ✅ Done  |
+|  Pentesting Fundamentals             |  ✅ Done  |
+|  Red Team Engagements                |  ✅ Done  |
+|  Introduction to DevSecOps           |  ✅ Done  |
+|  SDLC                                |  ✅ Done  |
+|  Careers in Cyber                    |  ✅ Done  |
+|  Intro to Pipeline Automation        |  ✅ Done  |
+|  Intro to Containerisation           |  ✅ Done  |
+|  Security Principles                 |  ✅ Done  |
+|  Secure Network Architecture         |  ✅ Done  |
+|  OWASP Top 10 - 2021                 |  ✅ Done  |
+|  Intro to Docker                     |  ✅ Done  |
+|  Governance & Regulation             |  ✅ Done  |
+|  Security Engineer Intro             |  ✅ Done  |
+|  Intro to IaC                        |  ✅ Done  |
+|  Billing                             |  ✅ Done  |
+|  Search Skills                       |  ✅ Done  |
+|  Offensive Security Intro            |  ✅ Done  |
+|  Defensive Security Intro            |  ✅ Done  |
 
 
 ## 🕵️ HackTheBox
@@ -150,15 +150,15 @@ https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ff
 
 
 
-| Raum / Modul             
+| Raum / Modul                        | Link                                                | 
 |-------------------------------------|-----------------------------------------------------|
-| Learning Progess    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/9
-| Intro to Academy    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/15
-| Linux Fundamentals  | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/18
-| Web Request         | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/35
-| JavaScript 
-| Deobfuscation       | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/41
-| Setting Up          | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/87
+| Learning Progess    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/9 |
+| Intro to Academy    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/15|
+| Linux Fundamentals  | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/18|
+| Web Request         | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/35|
+| JavaScript          |               |                                                     | 
+| Deobfuscation       | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/41|
+| Setting Up          | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/87|
 
 
 
