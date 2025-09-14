@@ -150,15 +150,15 @@ https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ff
 
 
 
-| Raum / Modul                        | Link                                                | 
-|-------------------------------------|-----------------------------------------------------|
-| Learning Progess    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/9 |
-| Intro to Academy    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/15|
-| Linux Fundamentals  | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/18|
-| Web Request         | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/35|
-| JavaScript          |               |                                                     | 
-| Deobfuscation       | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/41|
-| Setting Up          | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/87|
+| Raum / Modul        | Status        | Links                                                | 
+|-------------------------------------|------------------------------------------------------|
+| Learning Progess    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/9  |
+| Intro to Academy    | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/15 |
+| Linux Fundamentals  | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/18 | 
+| Web Request         | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/35 |
+| JavaScript          |               |                                                      | 
+| Deobfuscation       | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/41 |
+| Setting Up          | ✅ Done       |https://academy.hackthebox.com/achievement/2010805/87 |
 
 
 
