@@ -133,7 +133,7 @@ Bagdes
 |  Search Skills                       |  ✅ Done  |
 |  Offensive Security Intro            |  ✅ Done  |
 |  Defensive Security Intro            |  ✅ Done  |
-
+|  Vulnerabilities 101                 |  ✅ Done  |
 
 ## 🕵️ HackTheBox
 
