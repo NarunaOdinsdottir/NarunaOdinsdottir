@@ -134,6 +134,10 @@ Bagdes
 |  Offensive Security Intro            |  ✅ Done  |
 |  Defensive Security Intro            |  ✅ Done  |
 |  Vulnerabilities 101                 |  ✅ Done  |
+|  Metasploit: Introduction            |  ✅ Done  |
+
+
+
 
 ## 🕵️ HackTheBox
 
