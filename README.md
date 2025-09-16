@@ -109,6 +109,8 @@ Bagdes
 - cat linux.txt
 - Introduction to Security Engineering
 - Terminated!
+- Webbed
+- 
 
 | Raum / Modul                         |           |
 |--------------------------------------|-----------|
@@ -136,6 +138,7 @@ Bagdes
 |  Vulnerabilities 101                 |  ✅ Done  |
 |  Metasploit: Introduction            |  ✅ Done  |
 |  DNS in Detail                       |  ✅ Done  |
+|  Http in Detail                      |  ✅ Done  |
 
 
 
