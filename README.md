@@ -27,7 +27,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ## **Projekte (Auswahl)**
 
-### 🤖 Kevin – Mein Chatbot-Begleiter  
+### 🤖 K3V1N – Mein Chatbot-Begleiter  
 > Interaktives Spiel, Gesprächspartner, Reminder – bald: Mini-Roboter mit Herz.
 
 ### 🩹 Verbandswechselberater  
