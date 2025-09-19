@@ -112,7 +112,7 @@ Bagdes
 - Webbed
 - 
 
-| Raum / Modul                         |           |
+| Raum / Modul                         |           |          
 |--------------------------------------|-----------|
 |  Linux Fundamentals Part 1           |  ✅ Done  |
 |  ffuf                                |  ✅ Done  |
@@ -169,7 +169,8 @@ https://academy.hackthebox.com/achievement/badge/612ff71c-93f5-11f0-9254-bea50ff
 | JavaScript Deobfuscation | ✅ Done | https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4      |     
 | Setting Up               | ✅ Done | https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4      |
 | Getting started          | ✅ Done | https://academy.hackthebox.com/achievement/2010805/77                                      |
-
+| Introduction to          | ✅ Done | https://academy.hackthebox.com/achievement/2010805/295                                     |
+| Penetration Testing      |         |                                                                                            |
 
 ## ✉️ Kontakt
 
