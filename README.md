@@ -157,20 +157,22 @@ https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ff
 https://academy.hackthebox.com/achievement/badge/612d84a4-93f5-11f0-9254-bea50ffe6cb4
 https://academy.hackthebox.com/achievement/badge/612ff71c-93f5-11f0-9254-bea50ffe6cb4
 
-
 ## 🕵️ HackTheBox Fortschritt
 
-| Raum / Modul            | Status   | Badge                                                                                      |
-|--------------------------|----------|-------------------------------------------------------------------------------------------|
-| Learning Progress        | ✅ Done | https://academy.hackthebox.com/achievement/badge/44ca1bec-63af-11f0-bcfd-bea50ffe6cb4      |
-| Intro to Academy         | ✅ Done | https://academy.hackthebox.com/achievement/badge/db619d81-6315-11f0-bcfd-bea50ffe6cb4      |
-| Linux Fundamentals       | ✅ Done | https://academy.hackthebox.com/achievement/badge/80b00bbe-873b-11f0-9254-bea50ffe6cb4      |
-| Web Request              | ✅ Done | https://academy.hackthebox.com/achievement/badge/c4f0994e-8ca6-11f0-9254-bea50ffe6cb4      |
-| JavaScript Deobfuscation | ✅ Done | https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4      |     
-| Setting Up               | ✅ Done | https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4      |
-| Getting started          | ✅ Done | https://academy.hackthebox.com/achievement/2010805/77                                      |
-| Introduction to          | ✅ Done | https://academy.hackthebox.com/achievement/2010805/295                                     |
-| Penetration Testing      |         |                                                                                            |
+| Raum / Modul                  | Status   | Badge Link                                                                 |
+|-------------------------------|---------|----------------------------------------------------------------------------|
+| Learning Progress              | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/badge/44ca1bec-63af-11f0-bcfd-bea50ffe6cb4) |
+| Intro to Academy               | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/badge/db619d81-6315-11f0-bcfd-bea50ffe6cb4) |
+| Linux Fundamentals             | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/badge/80b00bbe-873b-11f0-9254-bea50ffe6cb4) |
+| Web Request                    | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/badge/c4f0994e-8ca6-11f0-9254-bea50ffe6cb4) |
+| JavaScript Deobfuscation       | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4) |
+| Setting Up                     | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4) |
+| Getting Started                | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/77) |
+| Introduction to                | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/295) |
+| Penetration Testing            | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/295) |
+| Network Enumeration with Nmap  | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/19) |
+
+´
 
 ## ✉️ Kontakt
 
