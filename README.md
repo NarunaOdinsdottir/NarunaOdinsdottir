@@ -133,15 +133,15 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 | OWASP Top 10 - 2021                  | ✅ Done   | Windows Fundamentals Part 1   | ✅ Done     |
 | Intro to Docker                      | ✅ Done   | Windows Fundamentals Part 2   | ✅ Done     |
 | Governance & Regulation              | ✅ Done   | Windows Fundamentals Part 3   | ✅ Done     |
-| Introduction to Security Engineering | ✅ Done   |                                |             |
-| Intro to IaC                         | ✅ Done   |                                |             |
-| Billing                              | ✅ Done   |                                |             |
-| Search Skills                        | ✅ Done   |                                |             | 
-| Offensive Security Intro             | ✅ Done   |                                |             |
-| Defensive Security Intro             | ✅ Done   |                                |             |
-| Vulnerabilities 101                  | ✅ Done   |                                |             |
-| Metasploit: Introduction             | ✅ Done   |                                |             |
-| DNS in Detail                        | ✅ Done   |                                |             |
+| Introduction to Security Engineering | ✅ Done   | Active Directory Basics       | ✅ Done     |
+| Intro to IaC                         | ✅ Done   | Windows Command line          | ✅ Done     |
+| Billing                              | ✅ Done   | Windpws Powershell            | ✅ Done     |
+| Search Skills                        | ✅ Done   | Linux Shell                   | ✅ Done     | 
+| Offensive Security Intro             | ✅ Done   | Networkin Concepts            | ✅ Done     |
+| Defensive Security Intro             | ✅ Done   | Networking Essentials         | ✅ Done     |
+| Vulnerabilities 101                  | ✅ Done   | Networking Core Protocols     | ✅ Done     |
+| Metasploit: Introduction             | ✅ Done   | Networking Secure Protocols   | ✅ Done     |
+| DNS in Detail                        | ✅ Done   | Wireshark Basic               | ✅ Done     |
 | HTTP in Detail                       | ✅ Done   |                                |             |
 | How Websites Work                    | ✅ Done   |                                |             |
 | Junior Security Analyst Intro        | ✅ Done   |                                |             |
