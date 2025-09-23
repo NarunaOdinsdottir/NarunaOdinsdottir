@@ -112,6 +112,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - 🌐 Networking Nerd  
 - 📡 World Wide Web
 - Metasploitable
+- Blue
 
 ---
 
