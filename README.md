@@ -110,7 +110,8 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - ☠️ Terminated!  
 - 🕸️ Webbed  
 - 🌐 Networking Nerd  
-- 📡 World Wide Web  
+- 📡 World Wide Web
+- Metasploitable
 
 ---
 
