@@ -120,40 +120,58 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ### 📘 Completed Rooms
 
-| Raum / Modul                         | Status    | Raum / Modul                  | Status      |        
-|--------------------------------------|-----------|--------------------------------|-------------|
-| Linux Fundamentals Part 1            | ✅ Done   | Pyramid of Pain               | ✅ Done     |
-| ffuf                                 | ✅ Done   | Cyber Kill Chain              | ✅ Done     |
-| What is Networking?                  | ✅ Done   | Unified Kill Chain            | ✅ Done     |
-| Pentesting Fundamentals              | ✅ Done   | Intro to Cyber Threat Intel   | ✅ Done     |
-| Red Team Engagements                 | ✅ Done   | Threat Intelligence Tools     | ✅ Done     |
-| Introduction to DevSecOps            | ✅ Done   | Intro LAN                     | ✅ Done     |
-| SDLC                                 | ✅ Done   | OSI Model                     | ✅ Done     |
-| Careers in Cyber                     | ✅ Done   | Packets and Frames            | ✅ Done     |
-| Intro to Pipeline Automation         | ✅ Done   | Extending your Network        | ✅ Done     |
-| Intro to Containerization            | ✅ Done   | Putting It All Together       | ✅ Done     |
-| Security Principles                  | ✅ Done   | Linux Fundamentals Part 2     | ✅ Done     |
-| Secure Network Architecture          | ✅ Done   | Linux Fundamentals Part 3     | ✅ Done     |
-| OWASP Top 10 - 2021                  | ✅ Done   | Windows Fundamentals Part 1   | ✅ Done     |
-| Intro to Docker                      | ✅ Done   | Windows Fundamentals Part 2   | ✅ Done     |
-| Governance & Regulation              | ✅ Done   | Windows Fundamentals Part 3   | ✅ Done     |
-| Introduction to Security Engineering | ✅ Done   | Active Directory Basics       | ✅ Done     |
-| Intro to IaC                         | ✅ Done   | Windows Command line          | ✅ Done     |
-| Billing                              | ✅ Done   | Windpws Powershell            | ✅ Done     |
-| Search Skills                        | ✅ Done   | Linux Shell                   | ✅ Done     | 
-| Offensive Security Intro             | ✅ Done   | Networkin Concepts            | ✅ Done     |
-| Defensive Security Intro             | ✅ Done   | Networking Essentials         | ✅ Done     |
-| Vulnerabilities 101                  | ✅ Done   | Networking Core Protocols     | ✅ Done     |
-| Metasploit: Introduction             | ✅ Done   | Networking Secure Protocols   | ✅ Done     |
-| DNS in Detail                        | ✅ Done   | Wireshark Basic               | ✅ Done     |
-| HTTP in Detail                       | ✅ Done   |                                |             |
-| How Websites Work                    | ✅ Done   |                                |             |
-| Junior Security Analyst Intro        | ✅ Done   |                                |             |
+# ✅ Abgeschlossene TryHackMe Räume & Module
+
+| Raum / Modul                         | Status    | Raum / Modul                      | Status      |        
+|--------------------------------------|-----------|-----------------------------------|-------------|
+| Linux Fundamentals Part 1            | ✅ Done   | Pyramid of Pain                   | ✅ Done     |
+| ffuf                                 | ✅ Done   | Cyber Kill Chain                  | ✅ Done     |
+| What is Networking?                  | ✅ Done   | Unified Kill Chain                | ✅ Done     |
+| Pentesting Fundamentals              | ✅ Done   | Intro to Cyber Threat Intel       | ✅ Done     |
+| Red Team Engagements                 | ✅ Done   | Threat Intelligence Tools         | ✅ Done     |
+| Introduction to DevSecOps            | ✅ Done   | Intro LAN                         | ✅ Done     |
+| SDLC                                 | ✅ Done   | OSI Model                         | ✅ Done     |
+| Careers in Cyber                     | ✅ Done   | Packets and Frames                | ✅ Done     |
+| Intro to Pipeline Automation         | ✅ Done   | Extending your Network            | ✅ Done     |
+| Intro to Containerization            | ✅ Done   | Putting It All Together           | ✅ Done     |
+| Security Principles                  | ✅ Done   | Linux Fundamentals Part 2         | ✅ Done     |
+| Secure Network Architecture          | ✅ Done   | Linux Fundamentals Part 3         | ✅ Done     |
+| OWASP Top 10 - 2021                  | ✅ Done   | Windows Fundamentals Part 1       | ✅ Done     |
+| Intro to Docker                      | ✅ Done   | Windows Fundamentals Part 2       | ✅ Done     |
+| Governance & Regulation              | ✅ Done   | Windows Fundamentals Part 3       | ✅ Done     |
+| Introduction to Security Engineering | ✅ Done   | Active Directory Basics           | ✅ Done     |
+| Intro to IaC                         | ✅ Done   | Windows Command line              | ✅ Done     |
+| Billing                              | ✅ Done   | Windows Powershell                | ✅ Done     |
+| Search Skills                        | ✅ Done   | Linux Shell                       | ✅ Done     | 
+| Offensive Security Intro             | ✅ Done   | Networking Concepts               | ✅ Done     |
+| Defensive Security Intro             | ✅ Done   | Networking Essentials             | ✅ Done     |
+| Vulnerabilities 101                  | ✅ Done   | Networking Core Protocols         | ✅ Done     |
+| Metasploit: Introduction             | ✅ Done   | Networking Secure Protocols       | ✅ Done     |
+| DNS in Detail                        | ✅ Done   | Wireshark: The Basics             | ✅ Done     |
+| HTTP in Detail                       | ✅ Done   | Tcpdump: The Basics               | ✅ Done     |
+| How Websites Work                    | ✅ Done   | Nmap: The Basics                  | ✅ Done     |
+| Junior Security Analyst Intro        | ✅ Done   | Cryptography Basics               | ✅ Done     |
+| Public Key Cryptography Basics       | ✅ Done   | Hashing Basics                    | ✅ Done     |
+| John the Ripper: The Basics          | ✅ Done   | Moniker Link (CVE-2024-21413)     | ✅ Done     |
+| Metasploit: Exploitation             | ✅ Done   | Metasploit: Meterpreter           | ✅ Done     |
+| Blue                                 | ✅ Done   | Web Application Basics            | ✅ Done     |
+| JavaScript Essentials                | ✅ Done   | SQL Fundamentals                  | ✅ Done     |
+| Burp Suite: The Basics               | ✅ Done   | Hydra                             | ✅ Done     |
+| Gobuster: The Basics                 | ✅ Done   | Shells Overview                   | ✅ Done     |
+| SQLMap: The Basics                   | ✅ Done   | SOC Fundamentals                  | ✅ Done     |
+| Digital Forensics Fundamentals       | ✅ Done   | Incident Response Fundamentals    | ✅ Done     |
+| Logs Fundamentals                    | ✅ Done   | Introduction to SIEM              | ✅ Done     |
+| Firewall Fundamentals                | ✅ Done   | IDS Fundamentals                  | ✅ Done     |
+| Vulnerability Scanner Overview       | ✅ Done   | CyberChef: The Basics             | ✅ Done     |
+| CAPA: The Basics                     | ✅ Done   | REMnux: Getting Started           | ✅ Done     |
+| FlareVM: Arsenal of Tools            | ✅ Done   | Training Impact on Teams          | ✅ Done     |
+
 
 ---
 
 ### 📜 Certificates
 - [Pre Security Learning Path (21.09.2025)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CGEXBWWSAK.pdf)
+- https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UVLWS1OQNY.pdf
 
 
 
@@ -200,7 +218,7 @@ Oder einfach **Kevin** fragen – der weiß Bescheid.
 
 ## 🎯 Ziel
 
-**Remote-Arbeiten im Bereich MedTech/IT** – mit Fokus auf **menschennahe Technik**, möglichst **barrierearm** und **ohne ständiges Telefonieren**.
+**Remote-Arbeiten im Bereich MedTech/IT** – mit Fokus auf **menschennahe Technik**, möglichst **barrierearm** und **einen Autismusfreundlichen Arbeitsplatz**.
 
 ---
 
