@@ -44,7 +44,12 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ### Recon Mini-Toolkit
 >Portscanner,Subdomainabfrage,Whois etc...
->
+
+
+![Kevin](https://img.shields.io/badge/🤖-Kevin%20Chatbot-yellow?style=for-the-badge)
+![Nachtatem](https://img.shields.io/badge/🐉-Nachtatem%20AI-purple?style=for-the-badge)
+![VaultTerminal](https://img.shields.io/badge/📟-SelfCare%20Terminal-orange?style=for-the-badge)
+
 >u.v.m.
 
 ---
@@ -57,6 +62,11 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 | 🛡 Cybersecurity | Ethical Hacking, Recon, OS & MAC Security  |
 | 🧰 Tools         | Git, GitHub, Jupyter, VS Code              |
 | ⚙️ Perspektive   | Robotik, Datenanalyse, KI                  |
+
+
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Terminal-black?logo=linux&logoColor=yellow)
+![Networking](https://img.shields.io/badge/Networking-OSI%20Model-lightgrey?logo=cisco&logoColor=white)
 
 ---
 
@@ -100,6 +110,9 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 # 🏴 CyberSec Progress
 
+![THM](https://img.shields.io/badge/TryHackMe-Progress-red?logo=tryhackme)
+![HTB](https://img.shields.io/badge/HackTheBox-Progress-green?logo=hackthebox)
+
 ## 🔐 TryHackMe
 
 ### 🏅 Badges
@@ -120,7 +133,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ### 📘 Completed Rooms
 
-# ✅ Abgeschlossene TryHackMe Räume & Module
+# ✅ 65 Abgeschlossene TryHackMe Räume & Module
 
 | Raum / Modul                         | Status    | Raum / Modul                      | Status      |        
 |--------------------------------------|-----------|-----------------------------------|-------------|
