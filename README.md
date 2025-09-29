@@ -128,6 +128,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - Blue
 - Sword Apprentice
 - Schild Apprentice
+- Pentesting Principles
 
 ---
 
