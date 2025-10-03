@@ -116,69 +116,177 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 ## 🔐 TryHackMe
 
 ### 🏅 Badges
-- 🌟 The Course Awakens  
-- 🛡️ OWASP Top 10  
-- 🐧 cat linux.txt  
-- 🔐 Introduction to Security Engineering  
-- ☠️ Terminated!  
-- 🕸️ Webbed  
-- 🌐 Networking Nerd  
-- 📡 World Wide Web
-- Metasploitable
-- Blue
-- Sword Apprentice
-- Schild Apprentice
-- Pentesting Principles
+
+
+🌟 The Course Awakens
+
+🛡️ OWASP Top 10
+
+🐧 cat linux.txt
+
+🔐 Introduction to Security Engineering
+
+☠️ Terminated!
+
+🕸️ Webbed
+
+🌐 Networking Nerd
+
+📡 World Wide Web
+
+🛠️ Metasploitable
+
+🔵 Blue
+
+⚔️ Sword Apprentice
+
+🛡️ Schild Apprentice
+
+🧭 Pentesting Principles
+
+🌍 Intro to Web Hacking
+
+
+## 🏅 TryHackMe Badges
+
+![The Course Awakens](https://img.shields.io/badge/The%20Course%20Awakens-🌟-brightgreen?style=for-the-badge)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-🛡️-red?style=for-the-badge)
+![cat linux.txt](https://img.shields.io/badge/cat%20linux.txt-🐧-black?style=for-the-badge)
+![Intro Security Eng](https://img.shields.io/badge/Security%20Engineering-🔐-green?style=for-the-badge)
+![Terminated!](https://img.shields.io/badge/Terminated!-☠️-darkred?style=for-the-badge)
+![Webbed](https://img.shields.io/badge/Webbed-🕸️-purple?style=for-the-badge)
+![Networking Nerd](https://img.shields.io/badge/Networking%20Nerd-🌐-blue?style=for-the-badge)
+![World Wide Web](https://img.shields.io/badge/World%20Wide%20Web-📡-violet?style=for-the-badge)
+![Metasploitable](https://img.shields.io/badge/Metasploitable-🛠️-orange?style=for-the-badge)
+![Blue](https://img.shields.io/badge/Blue-🔵-blue?style=for-the-badge)
+![Sword Apprentice](https://img.shields.io/badge/Sword%20Apprentice-⚔️-lightgrey?style=for-the-badge)
+![Schild Apprentice](https://img.shields.io/badge/Schild%20Apprentice-🛡️-lightgrey?style=for-the-badge)
+![Pentesting Principles](https://img.shields.io/badge/Pentesting%20Principles-🧭-yellowgreen?style=for-the-badge)
+![Intro Web Hacking](https://img.shields.io/badge/Intro%20to%20Web%20Hacking-🌍-blue?style=for-the-badge)
+
 
 ---
 
 ### 📘 Completed Rooms
 
-# ✅ 65 Abgeschlossene TryHackMe Räume & Module
+# ✅ 76 Abgeschlossene TryHackMe Räume & Module — Thematisch geordnet
 
-| Raum / Modul                         | Status    | Raum / Modul                      | Status      |        
-|--------------------------------------|-----------|-----------------------------------|-------------|
-| Linux Fundamentals Part 1            | ✅ Done   | Pyramid of Pain                   | ✅ Done     |
-| ffuf                                 | ✅ Done   | Cyber Kill Chain                  | ✅ Done     |
-| What is Networking?                  | ✅ Done   | Unified Kill Chain                | ✅ Done     |
-| Pentesting Fundamentals              | ✅ Done   | Intro to Cyber Threat Intel       | ✅ Done     |
-| Red Team Engagements                 | ✅ Done   | Threat Intelligence Tools         | ✅ Done     |
-| Introduction to DevSecOps            | ✅ Done   | Intro LAN                         | ✅ Done     |
-| SDLC                                 | ✅ Done   | OSI Model                         | ✅ Done     |
-| Careers in Cyber                     | ✅ Done   | Packets and Frames                | ✅ Done     |
-| Intro to Pipeline Automation         | ✅ Done   | Extending your Network            | ✅ Done     |
-| Intro to Containerization            | ✅ Done   | Putting It All Together           | ✅ Done     |
-| Security Principles                  | ✅ Done   | Linux Fundamentals Part 2         | ✅ Done     |
-| Secure Network Architecture          | ✅ Done   | Linux Fundamentals Part 3         | ✅ Done     |
-| OWASP Top 10 - 2021                  | ✅ Done   | Windows Fundamentals Part 1       | ✅ Done     |
-| Intro to Docker                      | ✅ Done   | Windows Fundamentals Part 2       | ✅ Done     |
-| Governance & Regulation              | ✅ Done   | Windows Fundamentals Part 3       | ✅ Done     |
-| Introduction to Security Engineering | ✅ Done   | Active Directory Basics           | ✅ Done     |
-| Intro to IaC                         | ✅ Done   | Windows Command line              | ✅ Done     |
-| Billing                              | ✅ Done   | Windows Powershell                | ✅ Done     |
-| Search Skills                        | ✅ Done   | Linux Shell                       | ✅ Done     | 
-| Offensive Security Intro             | ✅ Done   | Networking Concepts               | ✅ Done     |
-| Defensive Security Intro             | ✅ Done   | Networking Essentials             | ✅ Done     |
-| Vulnerabilities 101                  | ✅ Done   | Networking Core Protocols         | ✅ Done     |
-| Metasploit: Introduction             | ✅ Done   | Networking Secure Protocols       | ✅ Done     |
-| DNS in Detail                        | ✅ Done   | Wireshark: The Basics             | ✅ Done     |
-| HTTP in Detail                       | ✅ Done   | Tcpdump: The Basics               | ✅ Done     |
-| How Websites Work                    | ✅ Done   | Nmap: The Basics                  | ✅ Done     |
-| Junior Security Analyst Intro        | ✅ Done   | Cryptography Basics               | ✅ Done     |
-| Public Key Cryptography Basics       | ✅ Done   | Hashing Basics                    | ✅ Done     |
-| John the Ripper: The Basics          | ✅ Done   | Moniker Link (CVE-2024-21413)     | ✅ Done     |
-| Metasploit: Exploitation             | ✅ Done   | Metasploit: Meterpreter           | ✅ Done     |
-| Blue                                 | ✅ Done   | Web Application Basics            | ✅ Done     |
-| JavaScript Essentials                | ✅ Done   | SQL Fundamentals                  | ✅ Done     |
-| Burp Suite: The Basics               | ✅ Done   | Hydra                             | ✅ Done     |
-| Gobuster: The Basics                 | ✅ Done   | Shells Overview                   | ✅ Done     |
-| SQLMap: The Basics                   | ✅ Done   | SOC Fundamentals                  | ✅ Done     |
-| Digital Forensics Fundamentals       | ✅ Done   | Incident Response Fundamentals    | ✅ Done     |
-| Logs Fundamentals                    | ✅ Done   | Introduction to SIEM              | ✅ Done     |
-| Firewall Fundamentals                | ✅ Done   | IDS Fundamentals                  | ✅ Done     |
-| Vulnerability Scanner Overview       | ✅ Done   | CyberChef: The Basics             | ✅ Done     |
-| CAPA: The Basics                     | ✅ Done   | REMnux: Getting Started           | ✅ Done     |
-| FlareVM: Arsenal of Tools            | ✅ Done   | Training Impact on Teams          | ✅ Done     |
+## 🔹 Fundamentals & Grundlagen
+
+* Linux Fundamentals Part 1 — ✅ Done
+* Linux Fundamentals Part 2 — ✅ Done
+* Linux Fundamentals Part 3 — ✅ Done
+* Windows Fundamentals Part 1 — ✅ Done
+* Windows Fundamentals Part 2 — ✅ Done
+* Windows Fundamentals Part 3 — ✅ Done
+* What is Networking? — ✅ Done
+* Networking Concepts — ✅ Done
+* Networking Essentials — ✅ Done
+* Networking Core Protocols — ✅ Done
+* Networking Secure Protocols — ✅ Done
+* OSI Model — ✅ Done
+* How Websites Work — ✅ Done
+* HTTP in Detail — ✅ Done
+* DNS in Detail — ✅ Done
+* Packets and Frames — ✅ Done
+* TCPdump: The Basics — ✅ Done
+* Wireshark: The Basics — ✅ Done
+
+---
+
+## 🔹 Offensive Security / Pentesting (Web & Infrastructure)
+
+* Pentesting Fundamentals — ✅ Done
+* Offensive Security Intro — ✅ Done
+* Web Application Basics — ✅ Done
+* OWASP Top 10 - 2021 — ✅ Done
+* Burp Suite: The Basics — ✅ Done
+* ffuf — ✅ Done
+* Gobuster: The Basics — ✅ Done
+* Nmap: The Basics — ✅ Done
+* SQLMap: The Basics — ✅ Done
+* SQL Fundamentals — ✅ Done
+* Command injection — ✅ Done
+* File inclusion — ✅ Done
+* IDOR — ✅ Done
+* Authentication bypass — ✅ Done
+* Subdomain enumeration — ✅ Done
+* Content discovery — ✅ Done
+* Walking an application — ✅ Done
+* Intro to cross-site Scripting — ✅ Done
+* Intro to SSRF — ✅ Done
+* Metasploit: Introduction — ✅ Done
+* Metasploit: Exploitation — ✅ Done
+* Metasploit: Meterpreter — ✅ Done
+* John the Ripper: The Basics — ✅ Done
+* Hydra — ✅ Done
+* Shells Overview — ✅ Done
+* Race Conditions — ✅ Done
+
+---
+
+## 🔹 Defensive Security & Detection
+
+* Defensive Security Intro — ✅ Done
+* SOC Fundamentals — ✅ Done
+* Introduction to SIEM — ✅ Done
+* IDS Fundamentals — ✅ Done
+* Firewall Fundamentals — ✅ Done
+* Incident Response Fundamentals — ✅ Done
+* Logs Fundamentals — ✅ Done
+
+---
+
+## 🔹 Threat Intelligence & Security Ops
+
+* Intro to Cyber Threat Intel — ✅ Done
+* Threat Intelligence Tools — ✅ Done
+* Cyber Kill Chain — ✅ Done
+* Unified Kill Chain — ✅ Done
+* Training Impact on Teams — ✅ Done
+* Pyramid of Pain — ✅ Done
+
+---
+
+## 🔹 Forensics & Malware Analysis
+
+* Digital Forensics Fundamentals — ✅ Done
+* REMnux: Getting Started — ✅ Done
+* FlareVM: Arsenal of Tools — ✅ Done
+* CAPA: The Basics — ✅ Done
+* CyberChef: The Basics — ✅ Done
+
+---
+
+## 🔹 DevSecOps, Cloud & Engineering
+
+* Introduction to DevSecOps — ✅ Done
+* Intro to Containerization — ✅ Done
+* Intro to Docker — ✅ Done
+* Intro to IaC — ✅ Done
+* Intro to Pipeline Automation — ✅ Done
+* Introduction to Security Engineering — ✅ Done
+* SDLC — ✅ Done
+* Secure Network Architecture — ✅ Done
+
+---
+
+## 🔹 Tools, Skills & Misc
+
+* Search Skills — ✅ Done
+* Putting It All Together — ✅ Done
+* Active Directory Basics — ✅ Done
+* Windows Command line — ✅ Done
+* Windows Powershell — ✅ Done
+* Linux Shell — ✅ Done
+* Public Key Cryptography Basics — ✅ Done
+* Cryptography Basics — ✅ Done
+* Hashing Basics — ✅ Done
+* Vulnerabilities 101 — ✅ Done
+* Vulnerability Scanner Overview — ✅ Done
+* CyberChef: The Basics — ✅ Done
+* Packets and Frames — ✅ Done
+* Training Impact on Teams — ✅ Done
 
 
 ---
