@@ -28,28 +28,28 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 ## **Projekte (Auswahl)**
 
 ### 🤖 K3V1N – Mein Chatbot-Begleiter  
+
 > Interaktives Spiel, Gesprächspartner, Reminder – bald: Mini-Roboter mit Herz.
 
 ### 🩹 Verbandswechselberater  
+
 > Kleines Tool zur Erinnerungsunterstützung bei Wundversorgungen.
 
 ### ☢️ PipBoyBullshitBingo (PBBB)  
+
 > Fallout-inspiriertes Büro-Survival-Game zur mentalen Schadensbegrenzung.
 
 ### 🐉 Nachtatem  
+
 > Gesprächspartner & digitaler Erinnerer – mit drachiger Attitüde.
 
-### 💊 Medikamentenplan Generator  
+### 💊 Medikamentenplan Generator
+
 > Einfache Medikamentenliste mit Erinnerungshilfe.
 
 ### Recon Mini-Toolkit
+
 >Portscanner,Subdomainabfrage,Whois etc...
-
-
-![Kevin](https://img.shields.io/badge/🤖-Kevin%20Chatbot-yellow?style=for-the-badge)
-![Nachtatem](https://img.shields.io/badge/🐉-Nachtatem%20AI-purple?style=for-the-badge)
-![VaultTerminal](https://img.shields.io/badge/📟-SelfCare%20Terminal-orange?style=for-the-badge)
-
 >u.v.m.
 
 ---
@@ -63,11 +63,6 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 | 🧰 Tools         | Git, GitHub, Jupyter, VS Code              |
 | ⚙️ Perspektive   | Robotik, Datenanalyse, KI                  |
 
-
-![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Terminal-black?logo=linux&logoColor=yellow)
-![Networking](https://img.shields.io/badge/Networking-OSI%20Model-lightgrey?logo=cisco&logoColor=white)
-
 ---
 
 ## **Aktueller Lernpfad**
@@ -78,6 +73,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - Ethical Hacking (HackerX)
 - Hack the Box
 - Try Hack Me
+- Freecodecamp
 
 ---
 
@@ -109,9 +105,6 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 ---
 
 # 🏴 CyberSec Progress
-
-![THM](https://img.shields.io/badge/TryHackMe-Progress-red?logo=tryhackme)
-![HTB](https://img.shields.io/badge/HackTheBox-Progress-green?logo=hackthebox)
 
 ## 🔐 TryHackMe
 
@@ -145,25 +138,6 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 🧭 Pentesting Principles
 
 🌍 Intro to Web Hacking
-
-
-## 🏅 TryHackMe Badges
-
-![The Course Awakens](https://img.shields.io/badge/The%20Course%20Awakens-🌟-brightgreen?style=for-the-badge)
-![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-🛡️-red?style=for-the-badge)
-![cat linux.txt](https://img.shields.io/badge/cat%20linux.txt-🐧-black?style=for-the-badge)
-![Intro Security Eng](https://img.shields.io/badge/Security%20Engineering-🔐-green?style=for-the-badge)
-![Terminated!](https://img.shields.io/badge/Terminated!-☠️-darkred?style=for-the-badge)
-![Webbed](https://img.shields.io/badge/Webbed-🕸️-purple?style=for-the-badge)
-![Networking Nerd](https://img.shields.io/badge/Networking%20Nerd-🌐-blue?style=for-the-badge)
-![World Wide Web](https://img.shields.io/badge/World%20Wide%20Web-📡-violet?style=for-the-badge)
-![Metasploitable](https://img.shields.io/badge/Metasploitable-🛠️-orange?style=for-the-badge)
-![Blue](https://img.shields.io/badge/Blue-🔵-blue?style=for-the-badge)
-![Sword Apprentice](https://img.shields.io/badge/Sword%20Apprentice-⚔️-lightgrey?style=for-the-badge)
-![Schild Apprentice](https://img.shields.io/badge/Schild%20Apprentice-🛡️-lightgrey?style=for-the-badge)
-![Pentesting Principles](https://img.shields.io/badge/Pentesting%20Principles-🧭-yellowgreen?style=for-the-badge)
-![Intro Web Hacking](https://img.shields.io/badge/Intro%20to%20Web%20Hacking-🌍-blue?style=for-the-badge)
-
 
 ---
 
