@@ -285,6 +285,7 @@ https://academy.hackthebox.com/achievement/badge/c1668b8a-583a-11f0-bcfd-bea50ff
 https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ffe6cb4
 https://academy.hackthebox.com/achievement/badge/612d84a4-93f5-11f0-9254-bea50ffe6cb4
 https://academy.hackthebox.com/achievement/badge/612ff71c-93f5-11f0-9254-bea50ffe6cb4
+https://academy.hackthebox.com/achievement/badge/51dbd395-9e2e-11f0-9254-bea50ffe6cb4
 
 ## 🕵️ HackTheBox Fortschritt
 
