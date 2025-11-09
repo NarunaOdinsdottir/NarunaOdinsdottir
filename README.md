@@ -169,193 +169,207 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 # ✅ Abgeschlossene TryHackMe-Räume
 
--Einführung & Grundlagen
--Offensive Security Intro
--Defensive Security Intro
--Search Skills
--Careers in Cyber
--What is Networking?
--Pentesting Fundamentals
--Red Team Engagements
--Security Engineer Intro
--Security Principles
--Governance & Regulation
--SDLC
--Intro to Pipeline Automation
--Intro to Docker
--Intro to IaC
--Vulnerabilities 101
--DNS in Detail
--HTTP in Detail
--How Websites Work
--Junior Security Analyst Intro
--Pyramid of Pain
--Cyber Kill Chain
--Unified Kill Chain
--Intro to Cyber Threat Intel
--Threat Intelligence Tools
+- Einführung & Grundlagen
+- Offensive Security Intro
+- Defensive Security Intro
+- Search Skills
+- Careers in Cyber
+- What is Networking?
+- Pentesting Fundamentals
+- Red Team Engagements
+- Security Engineer Intro
+- Security Principles
+- Governance & Regulation
+- SDLC
+- Intro to Pipeline Automation
+- Intro to Docker
+- Intro to IaC
+- Vulnerabilities 101
+- DNS in Detail
+- HTTP in Detail
+- How Websites Work
+- Junior Security Analyst Intro
+- Pyramid of Pain
+- Cyber Kill Chain
+- Unified Kill Chain
+- Intro to Cyber Threat Intel
+- Threat Intelligence Tools
 
 # Linux & Windows Grundlagen
--Linux Fundamentals Part 1
--Linux Fundamentals Part 2
--Linux Fundamentals Part 3
--Windows Fundamentals 1
--Windows Fundamentals 2
--Windows Fundamentals 3
--Windows Command Line
--Windows PowerShell
--Linux Shells
+
+- Linux Fundamentals Part 1
+- Linux Fundamentals Part 2
+- Linux Fundamentals Part 3
+- Windows Fundamentals 1
+- Windows Fundamentals 2
+- Windows Fundamentals 3
+- Windows Command Line
+- Windows PowerShell
+- Linux Shells
 
 # Netzwerk & Protokolle
--Intro to LAN
--OSI Model
--Packets & Frames
--Extending Your Network
--Putting It All Together
--Networking Concepts
--Networking Essentials
--Networking Core Protocols
--Networking Secure Protocols
+
+- Intro to LAN
+- OSI Model
+- Packets & Frames
+- Extending Your Network
+- Putting It All Together
+- Networking Concepts
+- Networking Essentials
+- Networking Core Protocols
+- Networking Secure Protocols
 
 # Netzwerkscanning & Traffic-Analyse
--Wireshark: The Basics
--Tcpdump: The Basics
--Nmap: The Basics
--Nmap Live Host Discovery
--Nmap Basic Port Scans
--Nmap Advanced Port Scans
--Nmap Post Port Scans
+
+- Wireshark: The Basics
+- Tcpdump: The Basics
+- Nmap: The Basics
+- Nmap Live Host Discovery
+- Nmap Basic Port Scans
+- Nmap Advanced Port Scans
+- Nmap Post Port Scans
 
 # Kryptografie & Hashing
--Cryptography Basics
--Public Key Cryptography Basics
--Hashing Basics
--John the Ripper: The Basics
+
+- Cryptography Basics
+- Public Key Cryptography Basics
+- Hashing Basics
+- John the Ripper: The Basics
 
 # Exploits, CVEs & Metasploit
--Moniker Link (CVE-2024-21413)
--Metasploit: Introduction
--Metasploit: Exploitation
--Metasploit: Meterpreter
--Dirty Pipe (CVE-2022-0847)
--Pwnkit (CVE-2021-4034)
--Baron Samedit (CVE-2021-3156)
--Spring4Shell (CVE-2022-22965)
+
+- Moniker Link (CVE-2024-21413)
+- Metasploit: Introduction
+- Metasploit: Exploitation
+- Metasploit: Meterpreter
+- Dirty Pipe (CVE-2022-0847)
+- Pwnkit (CVE-2021-4034)
+- Baron Samedit (CVE-2021-3156)
+- Spring4Shell (CVE-2022-22965)
 
 # Web Security
--OWASP Top 10 – 2021
--Web Application Basics
--JavaScript Essentials
--Burp Suite: The Basics
--Burp Suite: Repeater
--Burp Suite: Intruder
--Burp Suite: Other Modules
--Burp Suite: Extensions
--Gobuster: The Basics
--Shells Overview
--SQL Fundamentals
--SQLMap: The Basics
--Walking an Application
--Content Discovery
--Subdomain Enumeration
--Authentication Bypass
--IDOR
--File Inclusion
--SSRF Introduction
--Cross-Site Scripting
--Race Conditions
--Command Injection
--SQL Injection
--Upload Vulnerabilities
--OWASP API Security Top 10 – 1
--OWASP API Security Top 10 – 2
--OWASP Juice Shop
+
+- OWASP Top 10 – 2021
+- Web Application Basics
+- JavaScript Essentials
+- Burp Suite: The Basics
+- Burp Suite: Repeater
+- Burp Suite: Intruder
+- Burp Suite: Other Modules
+- Burp Suite: Extensions
+- Gobuster: The Basics
+- Shells Overview
+- SQL Fundamentals
+- SQLMap: The Basics
+- Walking an Application
+- Content Discovery
+- Subdomain Enumeration
+- Authentication Bypass
+- IDOR
+- File Inclusion
+- SSRF Introduction
+- Cross-Site Scripting
+- Race Conditions
+- Command Injection
+- SQL Injection
+- Upload Vulnerabilities
+- OWASP API Security Top 10 – 1
+- OWASP API Security Top 10 – 2
+- OWASP Juice Shop
 
 # Privilege Escalation
--Linux Privilege Escalation
--Windows Privilege Escalation
+
+- Linux Privilege Escalation
+- Windows Privilege Escalation
 
 # OSINT, Recon & Enumeration
--Passive Reconnaissance
--Active Reconnaissance
--Enumeration & Brute Force
+
+- Passive Reconnaissance
+- Active Reconnaissance
+- Enumeration & Brute Force
 
 # Incident Response, SOC & Forensik
--SOC Fundamentals
--Digital Forensics Fundamentals
--Incident Response Fundamentals
--Logs Fundamentals
--Introduction to SIEM
--Threat Modelling
--Intro to IR and IM
--Logging for Accountability
--Becoming a First Responder
--Cyber Crisis Management
+
+- SOC Fundamentals
+- Digital Forensics Fundamentals
+- Incident Response Fundamentals
+- Logs Fundamentals
+- Introduction to SIEM
+- Threat Modelling
+- Intro to IR and IM
+- Logging for Accountability
+- Becoming a First Responder
+- Cyber Crisis Management
 
 # Firewalls, IDS & Hardening
--Firewall Fundamentals
--IDS Fundamentals
--Vulnerability Scanner Overview
--Linux System Hardening
--Microsoft Windows Hardening
--Active Directory Hardening
--Network Security Protocols
+
+- Firewall Fundamentals
+- IDS Fundamentals
+- Vulnerability Scanner Overview
+- Linux System Hardening
+- Microsoft Windows Hardening
+- Active Directory Hardening
+- Network Security Protocols
 
 # Malware Tools & Analysis
--CAPA: The Basics
--REMnux: Getting Started
--FlareVM: Arsenal of Tools
--CyberChef: The Basics
+
+- CAPA: The Basics
+- REMnux: Getting Started
+- FlareVM: Arsenal of Tools
+- CyberChef: The Basics
 
 # Virtualisierung, Cloud & DevSecOps
--Intro to Containerisation
--Introduction to DevSecOps
--Virtualization and Containers
--Intro to Cloud Security
--SDLC
--SSDLC
--SAST
--DAST
+
+- Intro to Containerisation
+- Introduction to DevSecOps
+- Virtualization and Containers
+- Intro to Cloud Security
+- SDLC
+- SSDLC
+- SAST
+- DAST
 
 # Challenges & CTFs
--Blue
--Pickle Rick
--TakeOver
--Net Sec Challenge
--Vulnerability Capstone
--Mother’s Secret
--Traverse
--Bypass Disable Functions
--What the Shell?
+
+- Blue
+- Pickle Rick
+- TakeOver
+- Net Sec Challenge
+- Vulnerability Capstone
+- Mother’s Secret
+- Traverse
+- Bypass Disable Functions
+- What the Shell?
+
 
 ### 📜 Certificates
 
 
-📜 Security Engineer — Issued: November 5, 2025
+# 📜 Security Engineer — Issued: November 5, 2025
 Network security engineering
 System security engineering
 Software security engineering
 Risk management & responding to incidents
 
-🌐 Web Fundamentals — Issued: October 19, 2025
+# 🌐 Web Fundamentals — Issued: October 19, 2025
 Understand web fundamentals
 Major vulnerabilities explained
 Learn industry-used tools
 Web application assessments
 
-🛡️ Jr Penetration Tester — Issued: October 9, 2025
+# 🛡️ Jr Penetration Tester — Issued: October 9, 2025
 Pentesting methodologies and tactics
 Enumeration, exploitation and reporting
 Realistische hands-on Hacking-Übungen
 Wichtige Security-Tools der Branche
 
-🔰 Cyber Security 101 — Issued: September 28, 2025
+# 🔰 Cyber Security 101 — Issued: September 28, 2025
 Grundlagen Computer-Networking & Kryptographie
 Basics zu Linux, Windows und Active Directory
 Einführung in offensive Cyber-Security
 Techniken der defensiven Sicherheit
 
-🧭 Pre Security — Issued: September 20,2025
+# 🧭 Pre Security — Issued: September 20,2025
 Cyber security basics
 Networking basics und Schwachstellen
 Das Web und gängige Angriffe
