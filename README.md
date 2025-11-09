@@ -167,7 +167,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ### 📘 Completed Rooms
 
-✅ Abgeschlossene TryHackMe-Räume
+# ✅ Abgeschlossene TryHackMe-Räume
 
 -Einführung & Grundlagen
 -Offensive Security Intro
@@ -195,7 +195,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 -Intro to Cyber Threat Intel
 -Threat Intelligence Tools
 
-Linux & Windows Grundlagen
+# Linux & Windows Grundlagen
 -Linux Fundamentals Part 1
 -Linux Fundamentals Part 2
 -Linux Fundamentals Part 3
@@ -206,7 +206,7 @@ Linux & Windows Grundlagen
 -Windows PowerShell
 -Linux Shells
 
-Netzwerk & Protokolle
+# Netzwerk & Protokolle
 -Intro to LAN
 -OSI Model
 -Packets & Frames
@@ -217,7 +217,7 @@ Netzwerk & Protokolle
 -Networking Core Protocols
 -Networking Secure Protocols
 
-Netzwerkscanning & Traffic-Analyse
+# Netzwerkscanning & Traffic-Analyse
 -Wireshark: The Basics
 -Tcpdump: The Basics
 -Nmap: The Basics
@@ -226,13 +226,13 @@ Netzwerkscanning & Traffic-Analyse
 -Nmap Advanced Port Scans
 -Nmap Post Port Scans
 
-Kryptografie & Hashing
+# Kryptografie & Hashing
 -Cryptography Basics
 -Public Key Cryptography Basics
 -Hashing Basics
 -John the Ripper: The Basics
 
-Exploits, CVEs & Metasploit
+# Exploits, CVEs & Metasploit
 -Moniker Link (CVE-2024-21413)
 -Metasploit: Introduction
 -Metasploit: Exploitation
@@ -242,7 +242,7 @@ Exploits, CVEs & Metasploit
 -Baron Samedit (CVE-2021-3156)
 -Spring4Shell (CVE-2022-22965)
 
-Web Security
+# Web Security
 -OWASP Top 10 – 2021
 -Web Application Basics
 -JavaScript Essentials
@@ -271,16 +271,16 @@ Web Security
 -OWASP API Security Top 10 – 2
 -OWASP Juice Shop
 
-Privilege Escalation
+# Privilege Escalation
 -Linux Privilege Escalation
 -Windows Privilege Escalation
 
-OSINT, Recon & Enumeration
+# OSINT, Recon & Enumeration
 -Passive Reconnaissance
 -Active Reconnaissance
 -Enumeration & Brute Force
 
-Incident Response, SOC & Forensik
+# Incident Response, SOC & Forensik
 -SOC Fundamentals
 -Digital Forensics Fundamentals
 -Incident Response Fundamentals
@@ -292,7 +292,7 @@ Incident Response, SOC & Forensik
 -Becoming a First Responder
 -Cyber Crisis Management
 
-Firewalls, IDS & Hardening
+# Firewalls, IDS & Hardening
 -Firewall Fundamentals
 -IDS Fundamentals
 -Vulnerability Scanner Overview
@@ -301,13 +301,13 @@ Firewalls, IDS & Hardening
 -Active Directory Hardening
 -Network Security Protocols
 
-Malware Tools & Analysis
+# Malware Tools & Analysis
 -CAPA: The Basics
 -REMnux: Getting Started
 -FlareVM: Arsenal of Tools
 -CyberChef: The Basics
 
-Virtualisierung, Cloud & DevSecOps
+# Virtualisierung, Cloud & DevSecOps
 -Intro to Containerisation
 -Introduction to DevSecOps
 -Virtualization and Containers
@@ -317,7 +317,7 @@ Virtualisierung, Cloud & DevSecOps
 -SAST
 -DAST
 
-Challenges & CTFs
+# Challenges & CTFs
 -Blue
 -Pickle Rick
 -TakeOver
@@ -329,13 +329,7 @@ Challenges & CTFs
 -What the Shell?
 
 ### 📜 Certificates
-## 🎓 TryHackMe Certificates
 
-![Security Engineer](https://img.shields.io/badge/Security%20Engineer-TryHackMe-blue?style=for-the-badge)
-![Web Fundamentals](https://img.shields.io/badge/Web%20Fundamentals-TryHackMe-green?style=for-the-badge)
-![Jr Penetration Tester](https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-purple?style=for-the-badge)
-![Cyber Security 101](https://img.shields.io/badge/Cyber%20Security%20101-TryHackMe-orange?style=for-the-badge)
-![Pre Security](https://img.shields.io/badge/Pre%20Security-TryHackMe-red?style=for-the-badge)
 
 📜 Security Engineer — Issued: November 5, 2025
 Network security engineering
