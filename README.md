@@ -70,7 +70,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 - Python (Udemy & Buch von Dominique Zeise)  
 - Git & GitHub  
 - Erste Schritte in Richtung Robotik & KI  
-- Ethical Hacking (HackerX)
+- Ethical Hacking 
 - Hack the Box
 - Try Hack Me
 - Freecodecamp
@@ -89,20 +89,26 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ### 🔐 Ethical Hacking
 
-| Zertifikat                | Anbieter | Datum    | Skills                   |
-|---------------------------|----------|----------|--------------------------|
-| Leveraging AI for Hacking | HackerX  | Mai 2025 | AI in Security           |
-| Gathering Information     | HackerX  | Mai 2025 | Reconnaissance           |
-| Hack the MAC              | HackerX  | Okt 2021 | Network Security         |
-| Know the OS               | HackerX  | Okt 2021 | OS Internals             |
-| Prompt Guide for Hacking  | HackerX  | Mai 2025 |                          |
-| Keyboard Spying           | HackerX  | Mai 2025 |                          |
-| Credit and Debit Card     | HackerX  | Mai 2025 |                          |
-|  Frauds                   |          |          |                          |
-| Hiding Messages           | HackerX  | Mai 2025 |                          |
-| Surfing anonymously       | HackerX  | Mai 2025 |                          |
-| Social Media Hacking      | HackerX  | Mai 2025 |                          |
----
+| Zertifikat                | Anbieter | Datum    |         
+|---------------------------|----------|----------|
+| Leveraging AI for Hacking | HackerX  | Mai 2025 |         
+| Gathering Information     | HackerX  | Mai 2025 |       
+| Hack the MAC              | HackerX  | Okt 2021 | 
+| Know the OS               | HackerX  | Okt 2021 | 
+| Prompt Guide for Hacking  | HackerX  | Mai 2025 |                          
+| Keyboard Spying           | HackerX  | Mai 2025 |                          
+| Credit and Debit Card     | HackerX  | Mai 2025 |                          
+| Frauds                                             
+| Hiding Messages           | HackerX  | Mai 2025 |                          
+| Surfing anonymously       | HackerX  | Mai 2025 |                          
+| Social Media Hacking      | HackerX  | Mai 2025 |                          
+| Database Hacking          | HackerX  | Okt.2025 |
+| Network Spying            | HackerX  | Okt.2025 |
+| Android Hacking           | HackerX  | Okt.2025 |
+| WIFI Hacking -WPA-WPA2    | HackerX  | Okt.2025 |
+| Cracking
+| WIFI Hacking -WEP Cracking | HackerX | Okt.2025 |
+|
 
 # 🏴 CyberSec Progress
 
@@ -139,138 +145,227 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 🌍 Intro to Web Hacking
 
-- Burp'ed
+🔥 30 Days Streak
+
+🪲 Burp'ed
+
+🖥️ /opt/m0th3r
+
+😅 Just have to deal with it
+
+🛡️ Network and System Security
+
+🌟 The Course Awakens
+
+🧵 Softwear Security
+
+🚀 Cyber Ready
+
+🎯 Calculated Risk
 
 ---
 
 ### 📘 Completed Rooms
 
-# ✅ 76 Abgeschlossene TryHackMe Räume & Module — Thematisch geordnet
+✅ Abgeschlossene TryHackMe-Räume
 
-## 🔹 Fundamentals & Grundlagen
+-Einführung & Grundlagen
+-Offensive Security Intro
+-Defensive Security Intro
+-Search Skills
+-Careers in Cyber
+-What is Networking?
+-Pentesting Fundamentals
+-Red Team Engagements
+-Security Engineer Intro
+-Security Principles
+-Governance & Regulation
+-SDLC
+-Intro to Pipeline Automation
+-Intro to Docker
+-Intro to IaC
+-Vulnerabilities 101
+-DNS in Detail
+-HTTP in Detail
+-How Websites Work
+-Junior Security Analyst Intro
+-Pyramid of Pain
+-Cyber Kill Chain
+-Unified Kill Chain
+-Intro to Cyber Threat Intel
+-Threat Intelligence Tools
 
-* Linux Fundamentals Part 1 — ✅ Done
-* Linux Fundamentals Part 2 — ✅ Done
-* Linux Fundamentals Part 3 — ✅ Done
-* Windows Fundamentals Part 1 — ✅ Done
-* Windows Fundamentals Part 2 — ✅ Done
-* Windows Fundamentals Part 3 — ✅ Done
-* What is Networking? — ✅ Done
-* Networking Concepts — ✅ Done
-* Networking Essentials — ✅ Done
-* Networking Core Protocols — ✅ Done
-* Networking Secure Protocols — ✅ Done
-* OSI Model — ✅ Done
-* How Websites Work — ✅ Done
-* HTTP in Detail — ✅ Done
-* DNS in Detail — ✅ Done
-* Packets and Frames — ✅ Done
-* TCPdump: The Basics — ✅ Done
-* Wireshark: The Basics — ✅ Done
+Linux & Windows Grundlagen
+-Linux Fundamentals Part 1
+-Linux Fundamentals Part 2
+-Linux Fundamentals Part 3
+-Windows Fundamentals 1
+-Windows Fundamentals 2
+-Windows Fundamentals 3
+-Windows Command Line
+-Windows PowerShell
+-Linux Shells
 
----
+Netzwerk & Protokolle
+-Intro to LAN
+-OSI Model
+-Packets & Frames
+-Extending Your Network
+-Putting It All Together
+-Networking Concepts
+-Networking Essentials
+-Networking Core Protocols
+-Networking Secure Protocols
 
-## 🔹 Offensive Security / Pentesting (Web & Infrastructure)
+Netzwerkscanning & Traffic-Analyse
+-Wireshark: The Basics
+-Tcpdump: The Basics
+-Nmap: The Basics
+-Nmap Live Host Discovery
+-Nmap Basic Port Scans
+-Nmap Advanced Port Scans
+-Nmap Post Port Scans
 
-* Pentesting Fundamentals — ✅ Done
-* Offensive Security Intro — ✅ Done
-* Web Application Basics — ✅ Done
-* OWASP Top 10 - 2021 — ✅ Done
-* Burp Suite: The Basics — ✅ Done
-* ffuf — ✅ Done
-* Gobuster: The Basics — ✅ Done
-* Nmap: The Basics — ✅ Done
-* SQLMap: The Basics — ✅ Done
-* SQL Fundamentals — ✅ Done
-* Command injection — ✅ Done
-* File inclusion — ✅ Done
-* IDOR — ✅ Done
-* Authentication bypass — ✅ Done
-* Subdomain enumeration — ✅ Done
-* Content discovery — ✅ Done
-* Walking an application — ✅ Done
-* Intro to cross-site Scripting — ✅ Done
-* Intro to SSRF — ✅ Done
-* Metasploit: Introduction — ✅ Done
-* Metasploit: Exploitation — ✅ Done
-* Metasploit: Meterpreter — ✅ Done
-* John the Ripper: The Basics — ✅ Done
-* Hydra — ✅ Done
-* Shells Overview — ✅ Done
-* Race Conditions — ✅ Done
+Kryptografie & Hashing
+-Cryptography Basics
+-Public Key Cryptography Basics
+-Hashing Basics
+-John the Ripper: The Basics
 
----
+Exploits, CVEs & Metasploit
+-Moniker Link (CVE-2024-21413)
+-Metasploit: Introduction
+-Metasploit: Exploitation
+-Metasploit: Meterpreter
+-Dirty Pipe (CVE-2022-0847)
+-Pwnkit (CVE-2021-4034)
+-Baron Samedit (CVE-2021-3156)
+-Spring4Shell (CVE-2022-22965)
 
-## 🔹 Defensive Security & Detection
+Web Security
+-OWASP Top 10 – 2021
+-Web Application Basics
+-JavaScript Essentials
+-Burp Suite: The Basics
+-Burp Suite: Repeater
+-Burp Suite: Intruder
+-Burp Suite: Other Modules
+-Burp Suite: Extensions
+-Gobuster: The Basics
+-Shells Overview
+-SQL Fundamentals
+-SQLMap: The Basics
+-Walking an Application
+-Content Discovery
+-Subdomain Enumeration
+-Authentication Bypass
+-IDOR
+-File Inclusion
+-SSRF Introduction
+-Cross-Site Scripting
+-Race Conditions
+-Command Injection
+-SQL Injection
+-Upload Vulnerabilities
+-OWASP API Security Top 10 – 1
+-OWASP API Security Top 10 – 2
+-OWASP Juice Shop
 
-* Defensive Security Intro — ✅ Done
-* SOC Fundamentals — ✅ Done
-* Introduction to SIEM — ✅ Done
-* IDS Fundamentals — ✅ Done
-* Firewall Fundamentals — ✅ Done
-* Incident Response Fundamentals — ✅ Done
-* Logs Fundamentals — ✅ Done
+Privilege Escalation
+-Linux Privilege Escalation
+-Windows Privilege Escalation
 
----
+OSINT, Recon & Enumeration
+-Passive Reconnaissance
+-Active Reconnaissance
+-Enumeration & Brute Force
 
-## 🔹 Threat Intelligence & Security Ops
+Incident Response, SOC & Forensik
+-SOC Fundamentals
+-Digital Forensics Fundamentals
+-Incident Response Fundamentals
+-Logs Fundamentals
+-Introduction to SIEM
+-Threat Modelling
+-Intro to IR and IM
+-Logging for Accountability
+-Becoming a First Responder
+-Cyber Crisis Management
 
-* Intro to Cyber Threat Intel — ✅ Done
-* Threat Intelligence Tools — ✅ Done
-* Cyber Kill Chain — ✅ Done
-* Unified Kill Chain — ✅ Done
-* Training Impact on Teams — ✅ Done
-* Pyramid of Pain — ✅ Done
+Firewalls, IDS & Hardening
+-Firewall Fundamentals
+-IDS Fundamentals
+-Vulnerability Scanner Overview
+-Linux System Hardening
+-Microsoft Windows Hardening
+-Active Directory Hardening
+-Network Security Protocols
 
----
+Malware Tools & Analysis
+-CAPA: The Basics
+-REMnux: Getting Started
+-FlareVM: Arsenal of Tools
+-CyberChef: The Basics
 
-## 🔹 Forensics & Malware Analysis
+Virtualisierung, Cloud & DevSecOps
+-Intro to Containerisation
+-Introduction to DevSecOps
+-Virtualization and Containers
+-Intro to Cloud Security
+-SDLC
+-SSDLC
+-SAST
+-DAST
 
-* Digital Forensics Fundamentals — ✅ Done
-* REMnux: Getting Started — ✅ Done
-* FlareVM: Arsenal of Tools — ✅ Done
-* CAPA: The Basics — ✅ Done
-* CyberChef: The Basics — ✅ Done
-
----
-
-## 🔹 DevSecOps, Cloud & Engineering
-
-* Introduction to DevSecOps — ✅ Done
-* Intro to Containerization — ✅ Done
-* Intro to Docker — ✅ Done
-* Intro to IaC — ✅ Done
-* Intro to Pipeline Automation — ✅ Done
-* Introduction to Security Engineering — ✅ Done
-* SDLC — ✅ Done
-* Secure Network Architecture — ✅ Done
-
----
-
-## 🔹 Tools, Skills & Misc
-
-* Search Skills — ✅ Done
-* Putting It All Together — ✅ Done
-* Active Directory Basics — ✅ Done
-* Windows Command line — ✅ Done
-* Windows Powershell — ✅ Done
-* Linux Shell — ✅ Done
-* Public Key Cryptography Basics — ✅ Done
-* Cryptography Basics — ✅ Done
-* Hashing Basics — ✅ Done
-* Vulnerabilities 101 — ✅ Done
-* Vulnerability Scanner Overview — ✅ Done
-* CyberChef: The Basics — ✅ Done
-* Packets and Frames — ✅ Done
-* Training Impact on Teams — ✅ Done
-
-
----
+Challenges & CTFs
+-Blue
+-Pickle Rick
+-TakeOver
+-Net Sec Challenge
+-Vulnerability Capstone
+-Mother’s Secret
+-Traverse
+-Bypass Disable Functions
+-What the Shell?
 
 ### 📜 Certificates
-- [Pre Security Learning Path (21.09.2025)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CGEXBWWSAK.pdf)
-- https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UVLWS1OQNY.pdf
+## 🎓 TryHackMe Certificates
 
+![Security Engineer](https://img.shields.io/badge/Security%20Engineer-TryHackMe-blue?style=for-the-badge)
+![Web Fundamentals](https://img.shields.io/badge/Web%20Fundamentals-TryHackMe-green?style=for-the-badge)
+![Jr Penetration Tester](https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-purple?style=for-the-badge)
+![Cyber Security 101](https://img.shields.io/badge/Cyber%20Security%20101-TryHackMe-orange?style=for-the-badge)
+![Pre Security](https://img.shields.io/badge/Pre%20Security-TryHackMe-red?style=for-the-badge)
+
+📜 Security Engineer — Issued: November 5, 2025
+Network security engineering
+System security engineering
+Software security engineering
+Risk management & responding to incidents
+
+🌐 Web Fundamentals — Issued: October 19, 2025
+Understand web fundamentals
+Major vulnerabilities explained
+Learn industry-used tools
+Web application assessments
+
+🛡️ Jr Penetration Tester — Issued: October 9, 2025
+Pentesting methodologies and tactics
+Enumeration, exploitation and reporting
+Realistische hands-on Hacking-Übungen
+Wichtige Security-Tools der Branche
+
+🔰 Cyber Security 101 — Issued: September 28, 2025
+Grundlagen Computer-Networking & Kryptographie
+Basics zu Linux, Windows und Active Directory
+Einführung in offensive Cyber-Security
+Techniken der defensiven Sicherheit
+
+🧭 Pre Security — Issued: September 20,2025
+Cyber security basics
+Networking basics und Schwachstellen
+Das Web und gängige Angriffe
+Erste Schritte mit dem Linux-Betriebssystem
 
 
 ## 🕵️ HackTheBox
