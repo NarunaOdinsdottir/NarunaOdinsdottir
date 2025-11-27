@@ -163,6 +163,8 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 🎯 Calculated Risk
 
+⚔️ SQL-Slayer
+
 ---
 
 ### 📘 Completed Rooms
