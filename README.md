@@ -114,56 +114,62 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ## 🔐 TryHackMe
 
-### 🏅 Badges
+# 🏆 Meine THM & Security Badges
 
+Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trainings.  
+Sortiert nach Seltenheit – von **Epic** bis **Common**.
 
-🌟 The Course Awakens
+---
 
-🛡️ OWASP Top 10
+## 🌟 Epic Badges
+| Badge | Beschreibung | Seltenheit |
+|-------|--------------|------------|
+| 🛡️ Pipeline Lieutenant | CI/CD Build & Security Room abgeschlossen | 0.6% |
+| 🐳 Diplodocker | Container Vulnerability Room abgeschlossen | 0.8% |
 
-🐧 cat linux.txt
+---
 
-🔐 Introduction to Security Engineering
+## 💎 Rare Badges
+| Badge | Beschreibung | Seltenheit |
+|-------|--------------|------------|
+| 🔰 Intro to Security Engineering | Security Engineer Intro abgeschlossen | 6.5% |
+| ⚔️ Sword Apprentice | SQLMap Room abgeschlossen | 7.1% |
+| 🛡️ Shield Apprentice | FlareVM Room abgeschlossen | 5.9% |
+| 🖥️ Cyber Ready | Einfluss von Training auf Teams verstanden | 8.4% |
+| 🌐 Intro to Web Hacking | Einführung in Web Hacking abgeschlossen | 7.5% |
+| 🪄 Burp'ed | Burp Suite Module abgeschlossen | 6.8% |
+| 🎲 Calculated Risk | Risk Management Room abgeschlossen | 2.4% |
+| 🌐 Network & System Security | Auditing & Monitoring Room abgeschlossen | 1.7% |
+| 🔒 Software Security | OWASP API Security Top 10 abgeschlossen | 1.7% |
+| 💻 /opt/m0th3r | Mother’s Secret abgeschlossen | 1.2% |
+| ⚡ Just have to deal with it | Cyber-Krise erfolgreich gemanagt | 1.5% |
+| 🛠️ Authentication Striker | Hammer genutzt, um Authentifizierung zu umgehen | 1.5% |
+| 🐍 SQL Slayer | Advanced SQL Injection gemeistert | 1.8% |
 
-☠️ Terminated!
+---
 
-🕸️ Webbed
+## 🎖️ Common Badges
+| Badge | Beschreibung | Seltenheit |
+|-------|--------------|------------|
+| 🎉 First Four | Vier Räume in der ersten Woche abgeschlossen | 28% |
+| 🖥️ Terminaled | Linux-Kompetenz erworben | 37.7% |
+| 📅 3 Day Streak | 3 Tage in Folge gehackt | 35.9% |
+| 📅 7 Day Streak | 7 Tage in Folge gehackt | 24.5% |
+| 🚀 The Course Awakens | Erstes DevSecOps-Raum abgeschlossen | 2.8% |
+| 🔐 OWASP Top 10 | Jede OWASP-Schwachstelle verstanden | 12.7% |
+| 🎟️ Raffle Royalty | Teilnahme Hack2Win 2025 | 11.4% |
+| 💥 Terminated! | Intro zu IaC abgeschlossen | 1.1% |
+| 🌐 Webbed | WWW verstanden | 27.6% |
+| 🌐 Networking Nerd | Network Fundamentals abgeschlossen | 20% |
+| 🌎 World Wide Web | How The Web Works abgeschlossen | 24.1% |
+| 🕷️ Metasploitable | Metasploit-Kompetenz | 11.5% |
+| 🪟 Blue | Windows via EternalBlue gehackt | 13.5% |
+| 📅 30 Day Streak | 30 Tage in Folge gehackt | 11.2% |
+| 🕵️ Pentesting Principles | Intro Pentesting abgeschlossen | 12.6% |
 
-🌐 Networking Nerd
+---
 
-📡 World Wide Web
-
-🛠️ Metasploitable
-
-🔵 Blue
-
-⚔️ Sword Apprentice
-
-🛡️ Schild Apprentice
-
-🧭 Pentesting Principles
-
-🌍 Intro to Web Hacking
-
-🔥 30 Days Streak
-
-🪲 Burp'ed
-
-🖥️ /opt/m0th3r
-
-😅 Just have to deal with it
-
-🛡️ Network and System Security
-
-🌟 The Course Awakens
-
-🧵 Softwear Security
-
-🚀 Cyber Ready
-
-🎯 Calculated Risk
-
-⚔️ SQL-Slayer
+> 💡 Hinweis: Seltenheit in Klammern zeigt den Prozentsatz der Nutzer, die das Badge erreicht haben.
 
 ---
 
