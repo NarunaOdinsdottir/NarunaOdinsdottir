@@ -114,7 +114,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ## 🔐 TryHackMe
 
-# 🏆 Meine THM & Security Badges
+# 🏆 Meine TryHackMe Badges
 
 Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trainings.  
 Sortiert nach Seltenheit – von **Epic** bis **Common**.
