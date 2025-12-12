@@ -346,6 +346,12 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ### 📜 Certificates
 
+# 🔐 DevSecOps - Issued: Dezember 7, 2025
+Acquire specialization in DevSecOps or broaden your understanding of product security.
+Hands-on CI/CD Pipeline Security
+Introduction to Securing IaC
+Containerisation Security
+Applications of DevSecOps Frameworks
 
 # 📜 Security Engineer — Issued: November 5, 2025
 Network security engineering
