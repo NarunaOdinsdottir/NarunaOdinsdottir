@@ -18,10 +18,10 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 ---
 
 ## **Was mich ausmacht**
-- 🩺 Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
-- 🧠 Autistisch, strukturiert & detailverliebt – besonders bei Code & Konzept  
-- ⚙️ Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
-- 🌐 Berufsbegleitend auf dem Weg zum Junior Pentester oder Junior DevSecOP
+-  Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
+- Autistisch, strukturiert & detailverliebt  
+-  Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
+-  Berufsbegleitend auf dem Weg zum Junior Pentester oder Junior DevSecOP
 
 ---
 
@@ -31,11 +31,11 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 > Interaktives Spiel, Gesprächspartner, Reminder – bald: Mini-Roboter mit Herz.
 
-### 🩹 Verbandswechselberater  
+###  Verbandswechselberater  
 
 > Kleines Tool zur Erinnerungsunterstützung bei Wundversorgungen.
 
-### ☢️ PipBoyBullshitBingo (PBBB)  
+###  PipBoyBullshitBingo (PBBB)  
 
 > Fallout-inspiriertes Büro-Survival-Game zur mentalen Schadensbegrenzung.
 
@@ -43,7 +43,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 > Gesprächspartner & digitaler Erinnerer – mit drachiger Attitüde.
 
-### 💊 Medikamentenplan Generator
+###  Medikamentenplan Generator
 
 > Einfache Medikamentenliste mit Erinnerungshilfe.
 
@@ -58,10 +58,10 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 | Bereich        | Details                                     |
 |----------------|---------------------------------------------|
-| 💻 Programmieren | Python (AI, APIs, OOP), Projekte & Tools  |
-| 🛡 Cybersecurity | Ethical Hacking, Recon, OS & MAC Security  |
-| 🧰 Tools         | Git, GitHub, Jupyter, VS Code              |
-| ⚙️ Perspektive   | Robotik, Datenanalyse, KI                  |
+| Programmieren | Python (AI, APIs, OOP), Projekte & Tools  |
+|  Cybersecurity | Ethical Hacking, Recon, OS & MAC Security  |
+| Tools         | Git, GitHub, Jupyter, VS Code              |
+|  Perspektive   | Robotik, Datenanalyse, KI                  |
 
 ---
 
@@ -79,7 +79,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ## 🏆 **Zertifikate**
 
-### 🐍 Python & AI
+###  Python & AI
 
 | Zertifikat               | Anbieter | Datum    | Skills                   |
 |--------------------------|----------|----------|--------------------------|
@@ -110,9 +110,9 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 | WIFI Hacking -WEP Cracking | HackerX | Okt.2025 |
 |
 
-# 🏴 CyberSec Progress
+#  CyberSec Progress
 
-## 🔐 TryHackMe
+##  TryHackMe
 
 # 🏆 Meine TryHackMe Badges
 
@@ -352,38 +352,38 @@ Sortiert nach Seltenheit – von **Epic** bis **Common**.
 
 ### 📜 Certificates
 
-# 🔐 DevSecOps - Issued: Dezember 7, 2025
+#  DevSecOps - Issued: Dezember 7, 2025
 Acquire specialization in DevSecOps or broaden your understanding of product security.
 Hands-on CI/CD Pipeline Security
 Introduction to Securing IaC
 Containerisation Security
 Applications of DevSecOps Frameworks
 
-# 📜 Security Engineer — Issued: November 5, 2025
+# Security Engineer — Issued: November 5, 2025
 Network security engineering
 System security engineering
 Software security engineering
 Risk management & responding to incidents
 
-# 🌐 Web Fundamentals — Issued: October 19, 2025
+#  Web Fundamentals — Issued: October 19, 2025
 Understand web fundamentals
 Major vulnerabilities explained
 Learn industry-used tools
 Web application assessments
 
-# 🛡️ Jr Penetration Tester — Issued: October 9, 2025
+#  Jr Penetration Tester — Issued: October 9, 2025
 Pentesting methodologies and tactics
 Enumeration, exploitation and reporting
 Realistische hands-on Hacking-Übungen
 Wichtige Security-Tools der Branche
 
-# 🔰 Cyber Security 101 — Issued: September 28, 2025
+#  Cyber Security 101 — Issued: September 28, 2025
 Grundlagen Computer-Networking & Kryptographie
 Basics zu Linux, Windows und Active Directory
 Einführung in offensive Cyber-Security
 Techniken der defensiven Sicherheit
 
-# 🧭 Pre Security — Issued: September 20,2025
+#  Pre Security — Issued: September 20,2025
 Cyber security basics
 Networking basics und Schwachstellen
 Das Web und gängige Angriffe
@@ -406,7 +406,7 @@ https://academy.hackthebox.com/achievement/badge/612d84a4-93f5-11f0-9254-bea50ff
 https://academy.hackthebox.com/achievement/badge/612ff71c-93f5-11f0-9254-bea50ffe6cb4
 https://academy.hackthebox.com/achievement/badge/51dbd395-9e2e-11f0-9254-bea50ffe6cb4
 
-## 🕵️ HackTheBox Fortschritt
+##  HackTheBox Fortschritt
 
 | Raum / Modul                  | Status   | Badge Link                                                                 |
 |-------------------------------|---------|----------------------------------------------------------------------------|
