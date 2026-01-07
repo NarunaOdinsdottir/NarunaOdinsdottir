@@ -177,177 +177,260 @@ Sortiert nach Seltenheit – von **Epic** bis **Common**.
 
 # ✅ Abgeschlossene TryHackMe-Räume
 
-- Einführung & Grundlagen
-- Offensive Security Intro
-- Defensive Security Intro
-- Search Skills
-- Careers in Cyber
-- What is Networking?
-- Pentesting Fundamentals
-- Red Team Engagements
-- Security Engineer Intro
-- Security Principles
-- Governance & Regulation
-- SDLC
-- Intro to Pipeline Automation
-- Intro to Docker
-- Intro to IaC
-- Vulnerabilities 101
-- DNS in Detail
-- HTTP in Detail
-- How Websites Work
-- Junior Security Analyst Intro
-- Pyramid of Pain
-- Cyber Kill Chain
-- Unified Kill Chain
-- Intro to Cyber Threat Intel
-- Threat Intelligence Tools
+> **Overview:** This list documents all TryHackMe rooms I have completed, grouped by topic for clarity and GitHub presentation. It reflects a broad foundation across **offensive security, defensive security, networking, operating systems, web security, cloud, DevSecOps, and blue team disciplines**.
 
-# Linux & Windows Grundlagen
+---
+## 🔰 Foundations & General Cybersecurity
 
-- Linux Fundamentals Part 1
-- Linux Fundamentals Part 2
-- Linux Fundamentals Part 3
-- Windows Fundamentals 1
-- Windows Fundamentals 2
-- Windows Fundamentals 3
-- Windows Command Line
-- Windows PowerShell
-- Linux Shells
+* Learning Cyber Security
+* Careers in Cyber
+* Security Principles / Principles of Security
+* Pentesting Fundamentals
+* Red Team Engagements
+* Security Engineer Intro
+* Junior Security Analyst Intro
+* Risk Management
+* Governance & Regulation
+* Training Impact on Teams
 
-# Netzwerk & Protokolle
+---
 
-- Intro to LAN
-- OSI Model
-- Packets & Frames
-- Extending Your Network
-- Putting It All Together
-- Networking Concepts
-- Networking Essentials
-- Networking Core Protocols
-- Networking Secure Protocols
+## 💻 Operating Systems & Fundamentals
 
-# Netzwerkscanning & Traffic-Analyse
+### Linux
 
-- Wireshark: The Basics
-- Tcpdump: The Basics
-- Nmap: The Basics
-- Nmap Live Host Discovery
-- Nmap Basic Port Scans
-- Nmap Advanced Port Scans
-- Nmap Post Port Scans
+* Linux Fundamentals Part 1
+* Linux Fundamentals Part 2
+* Linux Fundamentals Part 3
+* Linux Shells
+* Linux File System Analysis
+* Linux Privilege Escalation
+* Linux System Hardening
+* Linux Logging for SOC
 
-# Kryptografie & Hashing
+### Windows
 
-- Cryptography Basics
-- Public Key Cryptography Basics
-- Hashing Basics
-- John the Ripper: The Basics
+* Windows Fundamentals 1
+* Windows Fundamentals 2
+* Windows Fundamentals 3
+* Windows Command Line
+* Windows PowerShell
+* Windows Privilege Escalation
+* Windows Local Persistence
+* Microsoft Windows Hardening
 
-# Exploits, CVEs & Metasploit
+---
 
-- Moniker Link (CVE-2024-21413)
-- Metasploit: Introduction
-- Metasploit: Exploitation
-- Metasploit: Meterpreter
-- Dirty Pipe (CVE-2022-0847)
-- Pwnkit (CVE-2021-4034)
-- Baron Samedit (CVE-2021-3156)
-- Spring4Shell (CVE-2022-22965)
+## 🌐 Networking & Protocols
 
-# Web Security
+* What is Networking?
+* Networking Concepts
+* Networking Essentials
+* Networking Core Protocols
+* Networking Secure Protocols
+* Intro to LAN
+* OSI Model
+* Packets & Frames
+* Extending Your Network
+* DNS in Detail
+* HTTP in Detail
+* Protocols and Servers
+* Protocols and Servers 2
+* Secure Network Architecture
+* Network Device Hardening
+* Network Security Protocols
+* Net Sec Challenge
 
-- OWASP Top 10 – 2021
-- Web Application Basics
-- JavaScript Essentials
-- Burp Suite: The Basics
-- Burp Suite: Repeater
-- Burp Suite: Intruder
-- Burp Suite: Other Modules
-- Burp Suite: Extensions
-- Gobuster: The Basics
-- Shells Overview
-- SQL Fundamentals
-- SQLMap: The Basics
-- Walking an Application
-- Content Discovery
-- Subdomain Enumeration
-- Authentication Bypass
-- IDOR
-- File Inclusion
-- SSRF Introduction
-- Cross-Site Scripting
-- Race Conditions
-- Command Injection
-- SQL Injection
-- Upload Vulnerabilities
-- OWASP API Security Top 10 – 1
-- OWASP API Security Top 10 – 2
-- OWASP Juice Shop
+---
 
-# Privilege Escalation
+## 🔎 Reconnaissance & Enumeration
 
-- Linux Privilege Escalation
-- Windows Privilege Escalation
+* Search Skills
+* Passive Reconnaissance
+* Active Reconnaissance
+* Subdomain Enumeration
+* Content Discovery
+* Nmap: The Basics
+* Nmap Live Host Discovery
+* Nmap Basic Port Scans
+* Nmap Advanced Port Scans
+* Nmap Post Port Scans
+* Red Team Recon
 
-# OSINT, Recon & Enumeration
+---
 
-- Passive Reconnaissance
-- Active Reconnaissance
-- Enumeration & Brute Force
+## 🧨 Offensive Security & Exploitation
 
-# Incident Response, SOC & Forensik
+* Offensive Security Intro
+* Exploit Vulnerabilities
+* What the Shell?
+* Enumeration & Brute Force
+* Hydra
+* Gobuster: The Basics
+* Metasploit: Introduction
+* Metasploit: Exploitation
+* Metasploit: Meterpreter
+* SQLMap: The Basics
+* Command Injection
+* SQL Injection
+* Advanced SQL Injection
+* NoSQL Injection
+* XXE Injection
+* Server-Side Template Injection
+* LDAP Injection
+* Authentication Bypass
+* IDOR
+* File Inclusion
+* Upload Vulnerabilities
+* Race Conditions
+* Intro to SSRF
+* Intro to Cross-site Scripting
+* OAuth Vulnerabilities
+* Multi-Factor Authentication
+* Bypass Disable Functions
 
-- SOC Fundamentals
-- Digital Forensics Fundamentals
-- Incident Response Fundamentals
-- Logs Fundamentals
-- Introduction to SIEM
-- Threat Modelling
-- Intro to IR and IM
-- Logging for Accountability
-- Becoming a First Responder
-- Cyber Crisis Management
+---
 
-# Firewalls, IDS & Hardening
+## 🌍 Web & Application Security
 
-- Firewall Fundamentals
-- IDS Fundamentals
-- Vulnerability Scanner Overview
-- Linux System Hardening
-- Microsoft Windows Hardening
-- Active Directory Hardening
-- Network Security Protocols
+* How Websites Work
+* Web Application Basics
+* Walking An Application
+* JavaScript Essentials
+* SQL Fundamentals
+* Session Management
+* JWT Security
+* OWASP Juice Shop
+* OWASP API Security Top 10 – Part 1
+* OWASP API Security Top 10 – Part 2
+* OWASP Top 10 2025: IAAA Failures
+* OWASP Top 10 2025: Application Design Flaws
+* OWASP Top 10 2025: Insecure Data Handling
 
-# Malware Tools & Analysis
+---
 
-- CAPA: The Basics
-- REMnux: Getting Started
-- FlareVM: Arsenal of Tools
-- CyberChef: The Basics
+## 🔐 Cryptography
 
-# Virtualisierung, Cloud & DevSecOps
+* Cryptography Basics
+* Public Key Cryptography Basics
+* Hashing Basics
+* John the Ripper: The Basics
+* Introduction to Cryptography
 
-- Intro to Containerisation
-- Introduction to DevSecOps
-- Virtualization and Containers
-- Intro to Cloud Security
-- SDLC
-- SSDLC
-- SAST
-- DAST
+---
 
-# Challenges & CTFs
+## 🧠 Blue Team, SOC & DFIR
 
-- Blue
-- Pickle Rick
-- TakeOver
-- Net Sec Challenge
-- Vulnerability Capstone
-- Mother’s Secret
-- Traverse
-- Bypass Disable Functions
-- What the Shell?
+* Defensive Security
+* SOC Fundamentals
+* Digital Forensics Fundamentals
+* Incident Response Fundamentals
+* Intro to IR and IM
+* Becoming a First Responder
+* Logging for Accountability
+* Auditing and Monitoring
+* Introduction to SIEM
+* IDS Fundamentals
+* Firewall Fundamentals
+* Vulnerability Scanner Overview
+* Vulnerability Management
+* Pyramid of Pain
+* Cyber Kill Chain
+* Unified Kill Chain
+* Intro to Cyber Threat Intel
+* Threat Intelligence Tools
+* MS Sentinel: Introduction
+
+---
+
+## ☁️ DevSecOps, Cloud & Containers
+
+* Introduction to DevSecOps
+* SDLC
+* SSDLC
+* SAST
+* DAST
+* CI/CD and Build Security
+* Dependency Management
+* Intro to Pipeline Automation
+* Intro to Containerisation
+* Intro to Docker
+* Container Vulnerabilities
+* Container Hardening
+* Virtualization and Containers
+* Intro to Cloud Security
+* Intro to IaC
+* On-Premises IaC
+* Cloud-based IaC
+* Secure Network Architecture
+
+---
+
+## 🧪 Malware Analysis & Reverse Engineering
+
+* CyberChef: The Basics
+* CAPA: The Basics
+* REMnux: Getting Started
+* FlareVM: Arsenal of Tools
+
+---
+
+## 🧩 Active Directory & Enterprise Attacks
+
+* Active Directory Basics
+* Breaching Active Directory
+* Lateral Movement and Pivoting
+* Persisting Active Directory
+* Credentials Harvesting
+* Active Directory Hardening
+
+---
+
+## 🚩 Red Team Operations
+
+* Red Team Fundamentals
+* Red Team Threat Intel
+* Red Team OPSEC
+* Intro to C2
+
+---
+
+## 🧠 Programming & Scripting
+
+* Python Basics
+* Python for Pentesters
+* Hacking with PowerShell
+* Linux Shells
+* REMux The Tmux
+
+---
+
+## 🧪 CVEs & Practical Exploits
+
+* Dirty Pipe (CVE-2022-0847)
+* Pwnkit (CVE-2021-4034)
+* Baron Samedit (CVE-2021-3156)
+* Spring4Shell (CVE-2022-22965)
+* Moniker Link (CVE-2024-21413)
+* Erlang/OTP SSH (CVE-2025-32433)
+
+---
+
+## 🎯 Capture The Flag & Challenges
+
+* Blue
+* Pickle Rick
+* Mr Robot CTF
+* TakeOver
+* Hammer
+* Injectics
+* Mother’s Secret
+* Traverse
+* Vulnerability Capstone
+* Net Sec Challenge
+
+---
+✨ *This list demonstrates continuous hands-on learning across offensive, defensive, and engineering-focused cybersecurity disciplines.*
 
 
 ### 📜 Certificates
