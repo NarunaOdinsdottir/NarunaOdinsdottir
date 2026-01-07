@@ -435,6 +435,12 @@ Sortiert nach Seltenheit – von **Epic** bis **Common**.
 
 ### 📜 Certificates
 
+# CompTIA Pentest+ - Issued: January 6, 2026
+CompTIA PenTest+ is for cybersecurity professionals tasked with penetration testing and vulnerability management. Use this pathway as supporting content and pre-preparation for the CompTIA certification exam.
+Learn the practical skills and prepare to ace the Pentest+ exam.
+Hands-on exercises aligning to PenTest+ exam objectives
+Practical exam preparation to help you with the Performance Based Questions
+
 #  DevSecOps - Issued: Dezember 7, 2025
 Acquire specialization in DevSecOps or broaden your understanding of product security.
 Hands-on CI/CD Pipeline Security
