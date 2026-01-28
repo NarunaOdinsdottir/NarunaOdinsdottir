@@ -87,28 +87,6 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 | Python Fundamentals      | Mimo     | Mai 2025 | Data Structures, Modules |
 | TypeScript Fundamentals  | Mimo     | Mai 2025 |                          |
 
-### 🔐 Ethical Hacking
-
-| Zertifikat                | Anbieter | Datum    |         
-|---------------------------|----------|----------|
-| Leveraging AI for Hacking | HackerX  | Mai 2025 |         
-| Gathering Information     | HackerX  | Mai 2025 |       
-| Hack the MAC              | HackerX  | Okt 2021 | 
-| Know the OS               | HackerX  | Okt 2021 | 
-| Prompt Guide for Hacking  | HackerX  | Mai 2025 |                          
-| Keyboard Spying           | HackerX  | Mai 2025 |                          
-| Credit and Debit Card     | HackerX  | Mai 2025 |                          
-| Frauds                                             
-| Hiding Messages           | HackerX  | Mai 2025 |                          
-| Surfing anonymously       | HackerX  | Mai 2025 |                          
-| Social Media Hacking      | HackerX  | Mai 2025 |                          
-| Database Hacking          | HackerX  | Okt.2025 |
-| Network Spying            | HackerX  | Okt.2025 |
-| Android Hacking           | HackerX  | Okt.2025 |
-| WIFI Hacking -WPA-WPA2    | HackerX  | Okt.2025 |
-| Cracking
-| WIFI Hacking -WEP Cracking | HackerX | Okt.2025 |
-|
 
 #  CyberSec Progress
 
@@ -116,9 +94,10 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 # 🏆 Meine TryHackMe Badges
 
-Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trainings.  
+
 # ☢️ Vault-Tec Security Log ☢️
 ## Training & Field Certifications
+Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trainings.  
 
 > Status: **Operational**
 > Clearance Level: **Overseer**
@@ -307,8 +286,6 @@ Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trai
 > 🧠 Skill Tree: **Expanded**
 > ☢️ Threat Level: **Handled**
 
-
-### 📘 Completed Rooms
 
 # ✅ Abgeschlossene TryHackMe-Räume
 
