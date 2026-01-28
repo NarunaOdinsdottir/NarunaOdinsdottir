@@ -6,7 +6,7 @@
 ### Hi, ich bin **NarunaOdinsdottir**  
 *Medizinische Fachangestellte, Hörgeräteakustikerin & Wundexpertin – mit einem Herz für Technik und einer Schwäche für Fallout-Humor.*
 
-Ich lerne aktuell **Python**, **Ethical Hacking**, **Git** und taste mich in **Robotik & MedTech** vor.  
+Ich lerne aktuell **Python**, **Ethical Hacking**, **Git** und taste mich in **Robotik,Malware & MedTech** vor.  
 > Schritt für Schritt, Keks für Keks.  
 
 ---
@@ -21,7 +21,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 -  Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
 - Autistisch, strukturiert & detailverliebt  
 -  Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
--  Berufsbegleitend auf dem Weg zum Junior Security Engineer mit Research Fokus oder Junior Security Analsyt
+-  Berufsbegleitend auf dem Weg zum Junior Security Engineer mit Research Fokus oder Junior Security Analyst
 
 ---
 
