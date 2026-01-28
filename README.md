@@ -21,7 +21,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 -  Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
 - Autistisch, strukturiert & detailverliebt  
 -  Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
--  Berufsbegleitend auf dem Weg zum Junior Pentester oder Junior DevSecOP
+-  Berufsbegleitend auf dem Weg zum Junior Security Engineer mit Research Fokus oder Junior Security Analsyt
 
 ---
 
