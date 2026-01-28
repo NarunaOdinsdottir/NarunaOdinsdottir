@@ -117,366 +117,470 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 # 🏆 Meine TryHackMe Badges
 
 Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trainings.  
-Sortiert nach Seltenheit – von **Epic** bis **Common**.
+# ☢️ Vault-Tec Security Log ☢️
+## Training & Field Certifications
+
+> Status: **Operational**
+> Clearance Level: **Overseer**
+> System Integrity: **Nominal**
 
 ---
 
-## 🌟 Epic Badges
-| Badge | Beschreibung | Seltenheit |
-|-------|--------------|------------|
-| Pipeline Lieutenant | CI/CD Build & Security Room abgeschlossen | 0.6% |
-| Diplodocker | Container Vulnerability Room abgeschlossen | 0.8% |
+## 🧠 Learning Milestones — *Consistency is Survival*
+**5 / 5 Achievements Unlocked**
+
+- 🟢 **3-Day Streak**  
+  Achieved a 3-day hacking streak  
+  _Common · 42.4%_
+
+- 🟢 **7-Day Streak**  
+  Achieved a 7-day hacking streak  
+  _Common · 30.7%_
+
+- 🟡 **30-Day Streak**  
+  Hacking for 30 days solid  
+  _Common · 13.3%_
+
+- 🔵 **First Four**  
+  Completed four rooms in the first week  
+  _Common · 27.3%_
+
+- 🟣 **90-Day Streak**  
+  Hacking for 90 days in a row  
+  _Rare · 4.9%_
 
 ---
 
-## 💎 Rare Badges
-| Badge | Beschreibung | Seltenheit |
-|-------|--------------|------------|
-|  Intro to Security Engineering | Security Engineer Intro abgeschlossen | 6.5% |
-|  Sword Apprentice | SQLMap Room abgeschlossen | 7.1% |
-|  Shield Apprentice | FlareVM Room abgeschlossen | 5.9% |
-|  Cyber Ready | Einfluss von Training auf Teams verstanden | 8.4% |
-|  Intro to Web Hacking | Einführung in Web Hacking abgeschlossen | 7.5% |
-|  Burp'ed | Burp Suite Module abgeschlossen | 6.8% |
-|  Calculated Risk | Risk Management Room abgeschlossen | 2.4% |
-|  Network & System Security | Auditing & Monitoring Room abgeschlossen | 1.7% |
-|  Software Security | OWASP API Security Top 10 abgeschlossen | 1.7% |
-|  /opt/m0th3r | Mother’s Secret abgeschlossen | 1.2% |
-|  Just have to deal with it | Cyber-Krise erfolgreich gemanagt | 1.5% |
-|  Authentication Striker | Hammer genutzt, um Authentifizierung zu umgehen | 1.5% |
-|  SQL Slayer | Advanced SQL Injection gemeistert | 1.8% |
+## 🛡️ Blue Teaming Milestones — *Defend the Vault*
+**9 / 9 Achievements Unlocked**
+
+- 🟣 **/opt/m0th3r**  
+  Finished Mother’s Secret  
+  _Rare · 1.2%_
+
+- 🟣 **Terminated!**  
+  Intro to IaC cleared – the resistance is saved  
+  _Rare · 1.2%_
+
+- 🟣 **Just Have To Deal With It**  
+  Successfully managed a cyber crisis  
+  _Rare · 1.6%_
+
+- 🟣 **Network and System Security**  
+  Auditing & Monitoring completed  
+  _Rare · 1.9%_
+
+- 🟣 **The Course Awakens**  
+  First DevSecOps room completed  
+  _Rare · 3.0%_
+
+- 🔵 **Shield Apprentice**  
+  Completed the FlareVM room  
+  _Rare · 6.2%_
+
+- 🟠 **Pipeline Lieutenant**  
+  CI/CD Build & Security completed  
+  _Epic · 0.7%_
+
+- 🟠 **Linux Guardian**  
+  Stood guard against emerging Linux threats  
+  _Epic · 0.7%_
+
+- 🟠 **Diplodocker**  
+  Container Vulnerability room completed  
+  _Epic · 0.8%_
 
 ---
 
-## 🎖️ Common Badges
-| Badge | Beschreibung | Seltenheit |
-|-------|--------------|------------|
-|  First Four | Vier Räume in der ersten Woche abgeschlossen | 28% |
-|  Terminaled | Linux-Kompetenz erworben | 37.7% |
-|  3 Day Streak | 3 Tage in Folge gehackt | 35.9% |
-|  7 Day Streak | 7 Tage in Folge gehackt | 24.5% |
-|  The Course Awakens | Erstes DevSecOps-Raum abgeschlossen | 2.8% |
-|  OWASP Top 10 | Jede OWASP-Schwachstelle verstanden | 12.7% |
-|  Raffle Royalty | Teilnahme Hack2Win 2025 | 11.4% |
-|  Terminated! | Intro zu IaC abgeschlossen | 1.1% |
-|  Webbed | WWW verstanden | 27.6% |
-|  Networking Nerd | Network Fundamentals abgeschlossen | 20% |
-|  World Wide Web | How The Web Works abgeschlossen | 24.1% |
-|  Metasploitable | Metasploit-Kompetenz | 11.5% |
-|  Blue | Windows via EternalBlue gehackt | 13.5% |
-|  30 Day Streak | 30 Tage in Folge gehackt | 11.2% |
-|  Pentesting Principles | Intro Pentesting abgeschlossen | 12.6% |
+## ☠️ Red Teaming Milestones — *Break In To Make It Safer*
+**15 / 15 Achievements Unlocked**
+
+- 🟢 **Metasploitable**  
+  Proficient with Metasploit  
+  _Common · 12.8%_
+
+- 🟢 **OWASP Top 10**  
+  Understanding all OWASP vulnerabilities  
+  _Common · 13.2%_
+
+- 🟢 **Pentesting Principles**  
+  Introduction to Pentesting completed  
+  _Common · 14.4%_
+
+- 🟢 **Blue**  
+  Exploited Windows via EternalBlue  
+  _Common · 14.8%_
+
+- 🟣 **System Sniffer**  
+  File Path Traversal completed  
+  _Rare · 1.2%_
+
+- 🟣 **ADversary**  
+  All Active Directory networks completed  
+  _Rare · 1.4%_
+
+- 🟣 **Authentication Striker**  
+  Authentication bypassed  
+  _Rare · 1.6%_
+
+- 🟣 **SQL Slayer**  
+  Advanced SQL Injection conquered  
+  _Rare · 1.8%_
+
+- 🟣 **Software Security**  
+  OWASP API Security Top 10 completed  
+  _Rare · 1.8%_
+
+- 🟣 **Pentester Tools**  
+  Pentesting Tools series completed  
+  _Rare · 2.1%_
+
+- 🔵 **Mr. Robot**  
+  Mr. Robot room completed  
+  _Rare · 5.3%_
+
+- 🔵 **Burp’ed**  
+  Burp Suite module completed  
+  _Rare · 7.9%_
+
+- 🔵 **Intro to Web Hacking**  
+  Web hacking fundamentals completed  
+  _Rare · 8.5%_
+
+- 🟠 **HTTP Smuggler**  
+  El Bandito challenge completed  
+  _Epic · 0.7%_
+
+- 🟠 **Client-Side Champ**  
+  Client-side vulnerabilities exploited  
+  _Epic · 0.8%_
 
 ---
 
-> 💡 Hinweis: Seltenheit in Klammern zeigt den Prozentsatz der Nutzer, die das Badge erreicht haben.
+## 🧰 Foundations — *Know the Tools Before the Fight*
+**6 / 6 Achievements Unlocked**
+
+- 🟢 **Networking Nerd**  
+  Network Fundamentals completed  
+  _Common · 22%_
+
+- 🟢 **World Wide Web**  
+  How the Web Works completed  
+  _Common · 26.7%_
+
+- 🟢 **Webbed**  
+  Solid understanding of the WWW  
+  _Common · 30.5%_
+
+- 🟢 **cat linux.txt**  
+  Linux competency achieved  
+  _Common · 40.2%_
+
+- 🔵 **Sword Apprentice**  
+  SQLMap room completed  
+  _Rare · 7.5%_
+
+- 🔵 **Cyber Ready**  
+  Understanding impact of security training  
+  _Rare · 9.1%_
 
 ---
+
+## 🎲 Miscellaneous — *Wasteland Events*
+**3 / 3 Achievements Unlocked**
+
+- 🟣 **Calculated Risk**  
+  Risk Management completed  
+  _Rare · 2.5%_
+
+- 🔵 **Introduction to Security Engineering**  
+  Security Engineer Intro completed  
+  _Rare · 7.4%_
+
+- 🔵 **Raffle Royalty**  
+  Participated in Hack2Win 2025  
+  _Rare · 9.6%_
+
+---
+
+> 🧪 Vault Status: **Secure**
+> 🧠 Skill Tree: **Expanded**
+> ☢️ Threat Level: **Handled**
+
 
 ### 📘 Completed Rooms
 
 # ✅ Abgeschlossene TryHackMe-Räume
 
-> **Overview:** This list documents all TryHackMe rooms I have completed, grouped by topic for clarity and GitHub presentation. It reflects a broad foundation across **offensive security, defensive security, networking, operating systems, web security, cloud, DevSecOps, and blue team disciplines**.
-
----
-## 🔰 Foundations & General Cybersecurity
-
-* Learning Cyber Security
-* Careers in Cyber
-* Security Principles / Principles of Security
-* Pentesting Fundamentals
-* Red Team Engagements
-* Security Engineer Intro
-* Junior Security Analyst Intro
-* Risk Management
-* Governance & Regulation
-* Training Impact on Teams
+# ☢️ Vault-Tec Training Archive
+## Completed Rooms — Skill Clusters
 
 ---
 
-## 💻 Operating Systems & Fundamentals
+## 🧠 Foundations & General Cybersecurity
+- Learning Cyber Security
+- Careers in Cyber
+- Principles of Security
+- Governance & Regulation
+- Vulnerabilities 101
+- Vulnerability Management
+- Vulnerability Scanner Overview
+- Cyber Kill Chain
+- Unified Kill Chain
+- SDLC / SSDLC
+- Secure Software Development Lifecycle (SSDLC)
+- Search Skills
+- Becoming a First Responder
+- Cyber Crisis Management
+- Incident Response Fundamentals
+- Junior Security Analyst Intro
+- SOC Fundamentals
 
+---
+
+## 🌐 Networking & Protocol Fundamentals
+- What is Networking?
+- Networking Concepts
+- Networking Core Protocols
+- Networking Secure Protocols
+- Network Security Protocols
+- OSI Model
+- Packets & Frames
+- Extending Your Network
+- Intro to LAN
+- Secure Network Architecture
+- Net Sec Challenge
+
+---
+
+## 🐧 Operating Systems & Fundamentals
 ### Linux
-
-* Linux Fundamentals Part 1
-* Linux Fundamentals Part 2
-* Linux Fundamentals Part 3
-* Linux Shells
-* Linux File System Analysis
-* Linux Privilege Escalation
-* Linux System Hardening
-* Linux Logging for SOC
+- Linux Fundamentals (Part 2 & 3)
+- Linux Shells / Shells Overview
+- Linux Privilege Escalation
+- Linux System Hardening
+- Linux File System Analysis
+- Linux Logs Investigations
+- Linux Logging for SOC
+- Linux Threat Detection (1–3)
 
 ### Windows
-
-* Windows Fundamentals 1
-* Windows Fundamentals 2
-* Windows Fundamentals 3
-* Windows Command Line
-* Windows PowerShell
-* Windows Privilege Escalation
-* Windows Local Persistence
-* Microsoft Windows Hardening
+- Windows Fundamentals (2 & 3)
+- Windows Command Line
+- Windows PowerShell
+- Windows Local Persistence
+- Microsoft Windows Hardening
+- Active Directory Basics
 
 ---
 
-## 🌐 Networking & Protocols
-
-* What is Networking?
-* Networking Concepts
-* Networking Essentials
-* Networking Core Protocols
-* Networking Secure Protocols
-* Intro to LAN
-* OSI Model
-* Packets & Frames
-* Extending Your Network
-* DNS in Detail
-* HTTP in Detail
-* Protocols and Servers
-* Protocols and Servers 2
-* Secure Network Architecture
-* Network Device Hardening
-* Network Security Protocols
-* Net Sec Challenge
+## 🔍 Reconnaissance, Enumeration & Scanning
+- Passive Reconnaissance
+- Content Discovery
+- Subdomain Enumeration
+- TakeOver
+- Enumeration & Brute Force
+- Nmap: The Basics
+- Nmap Live Host Discovery
+- Nmap Basic / Advanced / Post Port Scans
+- Nessus
+- Gobuster: The Basics
 
 ---
 
-## 🔎 Reconnaissance & Enumeration
-
-* Search Skills
-* Passive Reconnaissance
-* Active Reconnaissance
-* Subdomain Enumeration
-* Content Discovery
-* Nmap: The Basics
-* Nmap Live Host Discovery
-* Nmap Basic Port Scans
-* Nmap Advanced Port Scans
-* Nmap Post Port Scans
-* Red Team Recon
+## 🌐 Web & Application Fundamentals
+- How Websites Work
+- Web Application Basics
+- Walking An Application
+- HTTP in Detail
+- JavaScript Essentials
+- CORS & SOP
+- Session Management
+- JWT Security
+- Multi-Factor Authentication
 
 ---
 
-## 🧨 Offensive Security & Exploitation
-
-* Offensive Security Intro
-* Exploit Vulnerabilities
-* What the Shell?
-* Enumeration & Brute Force
-* Hydra
-* Gobuster: The Basics
-* Metasploit: Introduction
-* Metasploit: Exploitation
-* Metasploit: Meterpreter
-* SQLMap: The Basics
-* Command Injection
-* SQL Injection
-* Advanced SQL Injection
-* NoSQL Injection
-* XXE Injection
-* Server-Side Template Injection
-* LDAP Injection
-* Authentication Bypass
-* IDOR
-* File Inclusion
-* Upload Vulnerabilities
-* Race Conditions
-* Intro to SSRF
-* Intro to Cross-site Scripting
-* OAuth Vulnerabilities
-* Multi-Factor Authentication
-* Bypass Disable Functions
+## 💉 Web Vulnerabilities & Exploitation
+- SQL Injection
+- Advanced SQL Injection
+- SQLMap: The Basics
+- File Inclusion / Path Traversal
+- Command Injection
+- IDOR
+- XSS
+- CSRF
+- XXE Injection
+- Prototype Pollution
+- ORM Injection
+- LDAP Injection
+- SSRF / Intro to SSRF
+- HTTP Request Smuggling
+- Request Smuggling: WebSockets
+- DOM-Based Attacks
+- Injectics
+- Include
+- Whats Your Name?
 
 ---
 
-## 🌍 Web & Application Security
-
-* How Websites Work
-* Web Application Basics
-* Walking An Application
-* JavaScript Essentials
-* SQL Fundamentals
-* Session Management
-* JWT Security
-* OWASP Juice Shop
-* OWASP API Security Top 10 – Part 1
-* OWASP API Security Top 10 – Part 2
-* OWASP Top 10 2025: IAAA Failures
-* OWASP Top 10 2025: Application Design Flaws
-* OWASP Top 10 2025: Insecure Data Handling
-
----
-
-## 🔐 Cryptography
-
-* Cryptography Basics
-* Public Key Cryptography Basics
-* Hashing Basics
-* John the Ripper: The Basics
-* Introduction to Cryptography
-
----
-
-## 🧠 Blue Team, SOC & DFIR
-
-* Defensive Security
-* SOC Fundamentals
-* Digital Forensics Fundamentals
-* Incident Response Fundamentals
-* Intro to IR and IM
-* Becoming a First Responder
-* Logging for Accountability
-* Auditing and Monitoring
-* Introduction to SIEM
-* IDS Fundamentals
-* Firewall Fundamentals
-* Vulnerability Scanner Overview
-* Vulnerability Management
-* Pyramid of Pain
-* Cyber Kill Chain
-* Unified Kill Chain
-* Intro to Cyber Threat Intel
-* Threat Intelligence Tools
-* MS Sentinel: Introduction
-
----
-
-## ☁️ DevSecOps, Cloud & Containers
-
-* Introduction to DevSecOps
-* SDLC
-* SSDLC
-* SAST
-* DAST
-* CI/CD and Build Security
-* Dependency Management
-* Intro to Pipeline Automation
-* Intro to Containerisation
-* Intro to Docker
-* Container Vulnerabilities
-* Container Hardening
-* Virtualization and Containers
-* Intro to Cloud Security
-* Intro to IaC
-* On-Premises IaC
-* Cloud-based IaC
-* Secure Network Architecture
+## ☠️ Red Teaming & Exploitation
+- Red Team Fundamentals
+- Red Team Engagements
+- Red Team Threat Intel
+- Intro to C2
+- Weaponizing Vulnerabilities
+- Credentials Harvesting
+- Phishing
+- What the Shell?
+- Metasploit: Introduction / Exploitation / Meterpreter
+- Hydra
+- John the Ripper: The Basics
+- Blue
+- Mr Robot CTF
+- Pickle Rick
 
 ---
 
 ## 🧪 Malware Analysis & Reverse Engineering
-
-* CyberChef: The Basics
-* CAPA: The Basics
-* REMnux: Getting Started
-* FlareVM: Arsenal of Tools
-
----
-
-## 🧩 Active Directory & Enterprise Attacks
-
-* Active Directory Basics
-* Breaching Active Directory
-* Lateral Movement and Pivoting
-* Persisting Active Directory
-* Credentials Harvesting
-* Active Directory Hardening
+- MAL: Malware Introductory
+- MAL: REMnux – The Redux
+- REMnux: Getting Started
+- Basic Malware RE
+- CAPA: The Basics
+- FlareVM: Arsenal of Tools
 
 ---
 
-## 🚩 Red Team Operations
-
-* Red Team Fundamentals
-* Red Team Threat Intel
-* Red Team OPSEC
-* Intro to C2
-
----
-
-## 🧠 Programming & Scripting
-
-* Python Basics
-* Python for Pentesters
-* Hacking with PowerShell
-* Linux Shells
-* REMux The Tmux
+## 🛡️ Blue Team, SOC & Detection
+- Introduction to SIEM
+- Auditing and Monitoring
+- Logs Fundamentals
+- Tcpdump: The Basics
+- Wireshark: The Basics
+- Linux Logging for SOC
+- Linux Threat Detection (1–3)
+- CyberChef: The Basics
+- Threat Intelligence Tools
+- Intro to Cyber Threat Intelligence
 
 ---
 
-## 🧪 CVEs & Practical Exploits
+## ☁️ Cloud, Containers & DevSecOps
+- Intro to Cloud Security
+- Cloud-based IaC
+- Intro to IaC
+- Dependency Management
+- Source Code Security
+- Intro to Pipeline Automation
+- Introduction to DevSecOps
+- DAST / SAST
+- Virtualization and Containers
+- Intro to Containerisation
+- Intro to Docker
+- Container Hardening
+- Intro to Kubernetes
+- Snyk Open Source
 
-* Dirty Pipe (CVE-2022-0847)
-* Pwnkit (CVE-2021-4034)
-* Baron Samedit (CVE-2021-3156)
-* Spring4Shell (CVE-2022-22965)
-* Moniker Link (CVE-2024-21413)
-* Erlang/OTP SSH (CVE-2025-32433)
+---
+
+## 🧨 CVE Labs & Real-World Exploits
+- Baron Samedit (CVE-2021-3156)
+- Dirty Pipe (CVE-2022-0847)
+- Pwnkit (CVE-2021-4034)
+- Spring4Shell (CVE-2022-22965)
+- Erlang/OTP SSH (CVE-2025-32433)
+- Moniker Link (CVE-2024-21413)
 
 ---
 
-## 🎯 Capture The Flag & Challenges
-
-* Blue
-* Pickle Rick
-* Mr Robot CTF
-* TakeOver
-* Hammer
-* Injectics
-* Mother’s Secret
-* Traverse
-* Vulnerability Capstone
-* Net Sec Challenge
-
----
-✨ *This list demonstrates continuous hands-on learning across offensive, defensive, and engineering-focused cybersecurity disciplines.*
+## 🔐 Cryptography & Secure Communication
+- Introduction to Cryptography
+- Cryptography Basics
+- Public Key Cryptography Basics
 
 
 ### 📜 Certificates
 
-# CompTIA Pentest+ - Issued: January 6, 2026
-CompTIA PenTest+ is for cybersecurity professionals tasked with penetration testing and vulnerability management. Use this pathway as supporting content and pre-preparation for the CompTIA certification exam.
-Learn the practical skills and prepare to ace the Pentest+ exam.
-Hands-on exercises aligning to PenTest+ exam objectives
-Practical exam preparation to help you with the Performance Based Questions
+## 🎖️ Vault-Tec Certifications
+### Authorized Training & Clearance Records
 
-#  DevSecOps - Issued: Dezember 7, 2025
-Acquire specialization in DevSecOps or broaden your understanding of product security.
-Hands-on CI/CD Pipeline Security
-Introduction to Securing IaC
-Containerisation Security
-Applications of DevSecOps Frameworks
+---
 
-# Security Engineer — Issued: November 5, 2025
-Network security engineering
-System security engineering
-Software security engineering
-Risk management & responding to incidents
+### ☠️ Offensive Security & Pentesting
 
-#  Web Fundamentals — Issued: October 19, 2025
-Understand web fundamentals
-Major vulnerabilities explained
-Learn industry-used tools
-Web application assessments
+- **Web Application Pentesting**  
+  *Issued: January 27, 2026*  
+  - Common web vulnerabilities & attack vectors  
+  - Web authentication mechanisms  
+  - Server-side & client-side exploitation  
+  - Remediation & secure design principles  
 
-#  Jr Penetration Tester — Issued: October 9, 2025
-Pentesting methodologies and tactics
-Enumeration, exploitation and reporting
-Realistische hands-on Hacking-Übungen
-Wichtige Security-Tools der Branche
+- **CompTIA PenTest+**  
+  *Issued: January 6, 2026*  
+  - Hands-on pentesting aligned with PenTest+ objectives  
+  - Practical exam preparation (Performance-Based Questions)  
+  - Enumeration, exploitation & reporting workflows  
 
-#  Cyber Security 101 — Issued: September 28, 2025
-Grundlagen Computer-Networking & Kryptographie
-Basics zu Linux, Windows und Active Directory
-Einführung in offensive Cyber-Security
-Techniken der defensiven Sicherheit
+- **Jr Penetration Tester**  
+  *Issued: October 9, 2025*  
+  - Pentesting methodologies & tactics  
+  - Enumeration, exploitation & reporting  
+  - Industry-standard security tools  
+  - Realistic hands-on hacking scenarios  
 
-#  Pre Security — Issued: September 20,2025
-Cyber security basics
-Networking basics und Schwachstellen
-Das Web und gängige Angriffe
-Erste Schritte mit dem Linux-Betriebssystem
+---
+
+### 🌐 Web & Application Security Foundations
+
+- **Web Fundamentals**  
+  *Issued: October 19, 2025*  
+  - Web architecture & fundamentals  
+  - Major web vulnerabilities explained  
+  - Industry-used security tools  
+  - Web application assessments  
+
+---
+
+### 🛡️ Security Engineering & DevSecOps
+
+- **Security Engineer**  
+  *Issued: November 5, 2025*  
+  - Network security engineering  
+  - System security engineering  
+  - Software security engineering  
+  - Risk management & incident response  
+
+- **DevSecOps**  
+  *Issued: December 7, 2025*  
+  - CI/CD pipeline security  
+  - Securing Infrastructure as Code (IaC)  
+  - Containerisation & container security  
+  - Application of DevSecOps frameworks  
+
+---
+
+### 🧠 Core Cybersecurity Foundations
+
+- **Cyber Security 101**  
+  *Issued: September 28, 2025*  
+  - Networking & cryptography fundamentals  
+  - Linux, Windows & Active Directory basics  
+  - Offensive security concepts  
+  - Defensive security techniques  
+
+- **Pre Security**  
+  *Issued: September 21, 2025*  
+  - Cybersecurity fundamentals  
+  - Networking basics & weaknesses  
+  - Web technologies & common attacks  
+  - Linux operating system fundamentals  
+
+---
+
+> 🏷️ Training Status: **Completed**
+> 🧬 Skill Progression: **Foundations → Engineering → Offense → DevSecOps**
+> ☢️ Vault Clearance: **Authorized**
 
 
 ## 🕵️ HackTheBox
