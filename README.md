@@ -66,13 +66,15 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ## **Aktueller Lernpfad**
 
-- Python (Udemy & Buch von Dominique Zeise)  
+- Ethical Hacking mit Python (Udemy & Buch)  
 - Git & GitHub  
 - Erste Schritte in Richtung Robotik & KI  
-- Ethical Hacking 
+- Ethical Hacking/ Cybersecurity (Udemy Kurse)
 - Hack the Box
 - Try Hack Me
 - Freecodecamp
+- Linux Foundation 
+- AWS Kurse
 
 ---
 
