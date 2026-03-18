@@ -2,12 +2,49 @@
 
 
 ---
-
 ### Hi, ich bin **NarunaOdinsdottir**  
 *Medizinische Fachangestellte, Hörgeräteakustikerin & Wundexpertin – mit einem Herz für Technik und einer Schwäche für Fallout-Humor.*
 
-Ich lerne aktuell **Python**, **Ethical Hacking**, **Git** und taste mich in **Robotik,Malware & MedTech** vor.  
-> Schritt für Schritt, Keks für Keks.  
+S.P.E.C.I.A.L. Skills: Medizinische Fachkraft 👩‍⚕️ | Technik-Enthusiastin 🤖 | Python-Pionierin 🐍 | Security-Freak in Ausbildung 🛡️
+
+⚡ Vault-Bio
+Nach Jahren im Gesundheitswesen habe ich meine Pip-Boy-Karte neu geladen:
+Technik + Empathie = smarte Tools, die Menschen wirklich helfen.
+Auf dem Radar: Python, Ethical Hacking, Linux, Cloud & Security Research.
+
+🎯 Mission:
+Remote-first IT Operations / Junior System Administration
+→ mittelfristig Purple Teaming
+→ langfristig Security Research & Threat Detection
+
+🐾 Projekte im Vault
+
+🤖 K3V1N – Interaktiver Chatbot-Begleiter & Reminder, bald Mini-Roboter
+
+PipBoyBullshitBingo – Fallout-inspiriertes Survival-Spiel fürs Büro
+
+Nachtatem – digitaler Drache, Mentor & kleiner Erinnerungs-Alarm
+
+Medikamentenplan Generator – einfache, smarte Medikamentenlisten mit Erinnerung
+
+u.v.m
+
+💾 Vault-Status: Lernpfad
+
+Python Fundamentals & AI Development
+Git & GitHub Mastery
+Linux, Windows & Active Directory Grundlagen
+Ethical Hacking, Recon, PenTesting
+HackTheBox & TryHackMe Labs
+DevSecOps & Cloud Security Basics
+
+🔑 Core Directive
+„Alle Vault-Ressourcen auf Remote-first & Autismus-freundliche Missionen ausrichten.
+Ziel: Systeme sichern, Prozesse optimieren, Menschen helfen, Energie behalten.“
+
+💬 Kontakt (Post-Hub)
+Willst du mit mir gemeinsam die Wastelands der IT erobern oder einfach Kevin fragen?
+„Technik kann Menschen helfen – oder zumindest liebevoll programmiert werden.“
 
 ---
 
@@ -17,40 +54,6 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ---
 
-## **Was mich ausmacht**
--  Medizinische Fachangestellte, Wundexpertin ICW & Hörgeräteakustikerin  
-- Autistisch, strukturiert & detailverliebt  
--  Technikbegeistert – mit Fokus auf **Python**, **Robotik** & **MedTech**  
--  Berufsbegleitend auf dem Weg zum Junior Security Engineer mit Research Fokus oder Junior Security Analyst
-
----
-
-## **Projekte (Auswahl)**
-
-### 🤖 K3V1N – Mein Chatbot-Begleiter  
-
-> Interaktives Spiel, Gesprächspartner, Reminder – bald: Mini-Roboter mit Herz.
-
-###  Verbandswechselberater  
-
-> Kleines Tool zur Erinnerungsunterstützung bei Wundversorgungen.
-
-###  PipBoyBullshitBingo (PBBB)  
-
-> Fallout-inspiriertes Büro-Survival-Game zur mentalen Schadensbegrenzung.
-
-### 🐉 Nachtatem  
-
-> Gesprächspartner & digitaler Erinnerer – mit drachiger Attitüde.
-
-###  Medikamentenplan Generator
-
-> Einfache Medikamentenliste mit Erinnerungshilfe.
-
-### Recon Mini-Toolkit
-
->Portscanner,Subdomainabfrage,Whois etc...
->u.v.m.
 
 ---
 
@@ -477,7 +480,7 @@ Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trai
 - Public Key Cryptography Basics
 
 
-### 📜 Certificates
+## 📜 Certificates
 
 ## 🎖️ Vault-Tec Certifications
 ### Authorized Training & Clearance Records
@@ -591,20 +594,7 @@ https://academy.hackthebox.com/achievement/badge/51dbd395-9e2e-11f0-9254-bea50ff
 | Penetration Testing            | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/295) |
 | Network Enumeration with Nmap  | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/19) |
 
-´
 
-## ✉️ Kontakt
-
-Du möchtest mich auf meinem Weg begleiten oder hast spannende Ideen?  
-Oder einfach **Kevin** fragen – der weiß Bescheid.  
-
-> *„Technik kann Menschen helfen. Wenn man sie richtig einsetzt – oder wenigstens liebevoll programmiert.“*
-
----
-
-## 🎯 Ziel
-
-**Remote-Arbeiten im Bereich MedTech/IT** – mit Fokus auf **menschennahe Technik**, möglichst **barrierearm** und **einen Autismusfreundlichen Arbeitsplatz**.
 
 ---
 
