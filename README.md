@@ -5,31 +5,31 @@
 ### Hi, ich bin **NarunaOdinsdottir**  
 *Medizinische Fachangestellte, Hörgeräteakustikerin & Wundexpertin – mit einem Herz für Technik und einer Schwäche für Fallout-Humor.*
 
-S.P.E.C.I.A.L. Skills: Medizinische Fachkraft 👩‍⚕️ | Technik-Enthusiastin 🤖 | Python-Pionierin 🐍 | Security-Freak in Ausbildung 🛡️
+**S.P.E.C.I.A.L. Skills**: Medizinische Fachkraft 👩‍⚕️ | Technik-Enthusiastin 🤖 | Python-Pionierin 🐍 | Security-Freak in Ausbildung 🛡️
 
-⚡ Vault-Bio
+⚡ **Vault-Bio**
 Nach Jahren im Gesundheitswesen habe ich meine Pip-Boy-Karte neu geladen:
 Technik + Empathie = smarte Tools, die Menschen wirklich helfen.
 Auf dem Radar: Python, Ethical Hacking, Linux, Cloud & Security Research.
 
-🎯 Mission:
+🎯**Mission**:
 Remote-first IT Operations / Junior System Administration
 → mittelfristig Purple Teaming
 → langfristig Security Research & Threat Detection
 
-🐾 Projekte im Vault
+🐾**Projekte im Vault**
 
-🤖 K3V1N – Interaktiver Chatbot-Begleiter & Reminder, bald Mini-Roboter
+🤖 *K3V1N*– Interaktiver Chatbot-Begleiter & Reminder, bald Mini-Roboter
 
-PipBoyBullshitBingo – Fallout-inspiriertes Survival-Spiel fürs Büro
+*PipBoyBullshitBingo* – Fallout-inspiriertes Survival-Spiel fürs Büro
 
-Nachtatem – digitaler Drache, Mentor & kleiner Erinnerungs-Alarm
+*Nachtatem* – digitaler Drache, Mentor & kleiner Erinnerungs-Alarm
 
-Medikamentenplan Generator – einfache, smarte Medikamentenlisten mit Erinnerung
+*Medikamentenplan Generator* – einfache, smarte Medikamentenlisten mit Erinnerung
 
 u.v.m
 
-💾 Vault-Status: Lernpfad
+💾 **Vault-Status**: Lernpfad
 
 Python Fundamentals & AI Development
 Git & GitHub Mastery
@@ -38,11 +38,11 @@ Ethical Hacking, Recon, PenTesting
 HackTheBox & TryHackMe Labs
 DevSecOps & Cloud Security Basics
 
-🔑 Core Directive
+🔑 **Core Directive**
 „Alle Vault-Ressourcen auf Remote-first & Autismus-freundliche Missionen ausrichten.
 Ziel: Systeme sichern, Prozesse optimieren, Menschen helfen, Energie behalten.“
 
-💬 Kontakt (Post-Hub)
+💬 **Kontakt**(Post-Hub)
 Willst du mit mir gemeinsam die Wastelands der IT erobern oder einfach Kevin fragen?
 „Technik kann Menschen helfen – oder zumindest liebevoll programmiert werden.“
 
@@ -53,10 +53,6 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 **Assistenzsysteme**, **smarte Gesundheitslösungen** und kreative Tools für den Alltag – gemacht für Menschen, die wirklich davon profitieren.
 
 ---
-
-
----
-
 ## **Skills im Aufbau**
 
 | Bereich        | Details                                     |
@@ -95,7 +91,7 @@ Nach vielen Jahren im Gesundheitswesen reizt mich die Idee, **Technik und Empath
 
 ##  TryHackMe
 
-# 🏆 Meine TryHackMe Badges
+🏆 **Meine TryHackMe Badges**
 
 
 # ☢️ Vault-Tec Security Log ☢️
@@ -480,8 +476,6 @@ Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trai
 - Public Key Cryptography Basics
 
 
-## 📜 Certificates
-
 ## 🎖️ Vault-Tec Certifications
 ### Authorized Training & Clearance Records
 
@@ -565,20 +559,6 @@ Hier sind meine erreichten Badges aus verschiedenen Security Challenges und Trai
 
 ## 🕵️ HackTheBox
 
-Badges
-
-https://academy.hackthebox.com/achievement/badge/44ca1bec-63af-11f0-bcfd-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/db619d81-6315-11f0-bcfd-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/80b00bbe-873b-11f0-9254-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/c4f0994e-8ca6-11f0-9254-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/18b57a5d-8e7b-11f0-9254-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/f762fe6f-7d2d-11f0-9254-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/c1668b8a-583a-11f0-bcfd-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/7fd311db-72c7-11f0-b52a-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/612d84a4-93f5-11f0-9254-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/612ff71c-93f5-11f0-9254-bea50ffe6cb4
-https://academy.hackthebox.com/achievement/badge/51dbd395-9e2e-11f0-9254-bea50ffe6cb4
-
 ##  HackTheBox Fortschritt
 
 | Raum / Modul                  | Status   | Badge Link                                                                 |
@@ -593,8 +573,6 @@ https://academy.hackthebox.com/achievement/badge/51dbd395-9e2e-11f0-9254-bea50ff
 | Introduction to                | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/295) |
 | Penetration Testing            | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/295) |
 | Network Enumeration with Nmap  | ✅ Done | [Badge](https://academy.hackthebox.com/achievement/2010805/19) |
-
-
 
 ---
 
